@@ -19,7 +19,12 @@
    "farm_id": "cleide",
    "manifest": "cleide.json",
    "updated": "2026-09-01"
+  },
+  {
+   "farm_id": "oscar-bahia",
+   "manifest": "oscar-bahia.json",
+   "updated": "2026-09-02"
   }
  ],
- "note": "Index of farm media manifests (Media Archives Pipeline / MAP \u2014 farm-media namespace). Farm IDs keyed per MEDIA_ARCHIVE_PIPELINE.md."
+ "note": "Index of farm media manifests (Media Archives Pipeline / MAP — farm-media namespace). Farm IDs keyed per MEDIA_ARCHIVE_PIPELINE.md."
 }
