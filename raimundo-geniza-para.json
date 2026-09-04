@@ -1,0 +1,200 @@
+{
+ "farm_id": "raimundo-geniza-para",
+ "plots": [
+  "RG-P1"
+ ],
+ "source_zips": [
+  "~/raimundo_geniza.zip"
+ ],
+ "generated": "2026-09-04",
+ "processed_by": "MEDIA_ARCHIVE_PIPELINE.md",
+ "counts": {
+  "MOV": 14,
+  "HEIC": 0
+ },
+ "gps_coverage": "14/14 MOV",
+ "items": [
+  {
+   "basename": "IMG_8206.MOV",
+   "file": "videos/IMG_8206.mp4",
+   "ext": "MOV",
+   "duration_s": 51.7,
+   "gps_raw": "-3.6303, -53.652",
+   "latitude": -3.6303,
+   "longitude": -53.652,
+   "sha256": "30e107172ec3e4609546efef22ee012417cedf6618ca202b3f0ee81af7d416c6",
+   "size_bytes": 24565129,
+   "yt_id": "HQOcuvdXVHs",
+   "title": "Sítio Raimundo & Geniza — IMG_8206 (Uruará, Pará)"
+  },
+  {
+   "basename": "IMG_8209.MOV",
+   "file": "videos/IMG_8209.mp4",
+   "ext": "MOV",
+   "duration_s": 5.9,
+   "gps_raw": "-3.6303, -53.652",
+   "latitude": -3.6303,
+   "longitude": -53.652,
+   "sha256": "912c2e5cc33923789c059e92d3771d5433e969b21fb69b63dd478f8cf6faa81b",
+   "size_bytes": 2267502,
+   "yt_id": "zMFRPQvYIro",
+   "title": "Sítio Raimundo & Geniza — IMG_8209 (Uruará, Pará)"
+  },
+  {
+   "basename": "IMG_8210.MOV",
+   "file": "videos/IMG_8210.mp4",
+   "ext": "MOV",
+   "duration_s": 79.0,
+   "gps_raw": "-3.630300, -53.652000",
+   "latitude": -3.6303,
+   "longitude": -53.652,
+   "sha256": "d449864c376284e6d3329e33257d05f4d1bff9884da62f362a75db0334a5825a",
+   "size_bytes": 30318983,
+   "yt_id": "YitQkzR8dtY",
+   "title": "Sítio Raimundo & Geniza — IMG_8210 (Uruará, Pará)"
+  },
+  {
+   "basename": "IMG_8215.MOV",
+   "file": "videos/IMG_8215.mp4",
+   "ext": "MOV",
+   "duration_s": 27.7,
+   "gps_raw": "-3.630300, -53.652000",
+   "latitude": -3.6303,
+   "longitude": -53.652,
+   "sha256": "b6271ddd88a554da9c592de74a598ae4597c83eb7fb822f203a28084b9e78c2a",
+   "size_bytes": 14752197,
+   "yt_id": "CBEahJEoYxw",
+   "title": "Sítio Raimundo & Geniza — IMG_8215 (Uruará, Pará)"
+  },
+  {
+   "basename": "IMG_8235.MOV",
+   "file": "videos/IMG_8235.mp4",
+   "ext": "MOV",
+   "duration_s": 39.7,
+   "gps_raw": "-3.630400, -53.651900",
+   "latitude": -3.6304,
+   "longitude": -53.6519,
+   "sha256": "02b0012998df6051573c0d5683eb9224b6e2cb636b189a71da030d4f0a242a41",
+   "size_bytes": 30002572,
+   "yt_id": "xAWFfPzVpas",
+   "title": "Sítio Raimundo & Geniza — IMG_8235 (Uruará, Pará)"
+  },
+  {
+   "basename": "IMG_8237.MOV",
+   "file": "videos/IMG_8237.mp4",
+   "ext": "MOV",
+   "duration_s": 20.9,
+   "gps_raw": "-3.630300, -53.652000",
+   "latitude": -3.6303,
+   "longitude": -53.652,
+   "sha256": "fe43344c635671a2c6dcf0f1a8a543ec557abb5b68a5fe2696a9d3597512a740",
+   "size_bytes": 9045660,
+   "yt_id": "XKfM27PJr1c",
+   "title": "Sítio Raimundo & Geniza — IMG_8237 (Uruará, Pará)"
+  },
+  {
+   "basename": "IMG_8239.MOV",
+   "file": "videos/IMG_8239.mp4",
+   "ext": "MOV",
+   "duration_s": 12.4,
+   "gps_raw": "-3.630400, -53.652000",
+   "latitude": -3.6304,
+   "longitude": -53.652,
+   "sha256": "a2d58057a806a15aab014d08a29b08dc5705aae82b86278b4c6bad2ed782b0dc",
+   "size_bytes": 6449518,
+   "yt_id": "gIxIHjIYcUI",
+   "title": "Sítio Raimundo & Geniza — IMG_8239 (Uruará, Pará)"
+  },
+  {
+   "basename": "IMG_8242 2.MOV",
+   "file": "videos/IMG_8242 2.mp4",
+   "ext": "MOV",
+   "duration_s": 13.6,
+   "gps_raw": "-3.630600, -53.651900",
+   "latitude": -3.6306,
+   "longitude": -53.6519,
+   "sha256": "71880623af9fc1d3e7ce0bee5ba375b38361cdd387a7a0fc5050ccff071ef78b",
+   "size_bytes": 9639443,
+   "yt_id": "MM4xxqHM2y0",
+   "title": "Sítio Raimundo & Geniza — IMG_8242 2 (Uruará, Pará)"
+  },
+  {
+   "basename": "IMG_8244.MOV",
+   "file": "videos/IMG_8244.mp4",
+   "ext": "MOV",
+   "duration_s": 22.3,
+   "gps_raw": "-3.630400, -53.651900",
+   "latitude": -3.6304,
+   "longitude": -53.6519,
+   "sha256": "642ab78fc3bfca9919ce12031464cd4b41755e500f227ceff7be8705c5d29520",
+   "size_bytes": 28577081,
+   "yt_id": "G--yy3d3ljM",
+   "title": "Sítio Raimundo & Geniza — IMG_8244 (Uruará, Pará)"
+  },
+  {
+   "basename": "IMG_8245.MOV",
+   "file": "videos/IMG_8245.mp4",
+   "ext": "MOV",
+   "duration_s": 12.7,
+   "gps_raw": "-3.630400, -53.651900",
+   "latitude": -3.6304,
+   "longitude": -53.6519,
+   "sha256": "63be0928ffb6fb0c22548e4650c50534333c6c7bfefecb6eac03976254ac6730",
+   "size_bytes": 23242300,
+   "yt_id": "Qptt10C097k",
+   "title": "Sítio Raimundo & Geniza — IMG_8245 (Uruará, Pará)"
+  },
+  {
+   "basename": "IMG_8246.MOV",
+   "file": "videos/IMG_8246.mp4",
+   "ext": "MOV",
+   "duration_s": 5.9,
+   "gps_raw": "-3.630400, -53.652000",
+   "latitude": -3.6304,
+   "longitude": -53.652,
+   "sha256": "95b9c3e9a4a278d3c6ccc3871fdff5617366734adc3b3c941eb5d3d12253da62",
+   "size_bytes": 8291042,
+   "yt_id": "1QmDWuGdngs",
+   "title": "Sítio Raimundo & Geniza — IMG_8246 (Uruará, Pará)"
+  },
+  {
+   "basename": "IMG_8247.MOV",
+   "file": "videos/IMG_8247.mp4",
+   "ext": "MOV",
+   "duration_s": 18.1,
+   "gps_raw": "-3.630300, -53.651900",
+   "latitude": -3.6303,
+   "longitude": -53.6519,
+   "sha256": "2d3623c815a476b6833ca43ca2287e516fef5296e628bb6abc1b2d57904e1421",
+   "size_bytes": 35798884,
+   "yt_id": "SHDwW39Up0U",
+   "title": "Sítio Raimundo & Geniza — IMG_8247 (Uruará, Pará)"
+  },
+  {
+   "basename": "IMG_8248.MOV",
+   "file": "videos/IMG_8248.mp4",
+   "ext": "MOV",
+   "duration_s": 23.1,
+   "gps_raw": "-3.630200, -53.652000",
+   "latitude": -3.6302,
+   "longitude": -53.652,
+   "sha256": "502cf54b100488a0b0dc357782ad2e168c843a9b80425477a0b98564390b51af",
+   "size_bytes": 34783528,
+   "yt_id": "G-If2PHUazU",
+   "title": "Sítio Raimundo & Geniza — IMG_8248 (Uruará, Pará)"
+  },
+  {
+   "basename": "IMG_8259.MOV",
+   "file": "videos/IMG_8259.mp4",
+   "ext": "MOV",
+   "duration_s": 6.0,
+   "gps_raw": "-3.630300, -53.652000",
+   "latitude": -3.6303,
+   "longitude": -53.652,
+   "sha256": "fdf02fa458a9b74594da823945e618758f8bcccc74a67a1e5855cac044763902",
+   "size_bytes": 6693600,
+   "yt_id": "BsRuAHKy3RI",
+   "title": "Sítio Raimundo & Geniza — IMG_8259 (Uruará, Pará)"
+  }
+ ]
+}
