@@ -29,6 +29,11 @@
             "farm_id": "raimundo-geniza-para",
             "manifest": "raimundo-geniza-para.json",
             "updated": "2026-09-04"
+        },
+        {
+            "farm_id": "fazenda-dona-rosa",
+            "manifest": "fazenda-dona-rosa.json",
+            "updated": "2026-09-05"
         }
     ],
     "note": "Index of farm media manifests (Media Archives Pipeline / MAP — farm-media namespace). Farm IDs keyed per MEDIA_ARCHIVE_PIPELINE.md."
