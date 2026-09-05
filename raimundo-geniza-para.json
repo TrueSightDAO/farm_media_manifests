@@ -1,7 +1,7 @@
 {
  "farm_id": "raimundo-geniza-para",
  "plots": [
-  "RG-P1"
+  "U-06-07"
  ],
  "source_zips": [
   "~/raimundo_geniza.zip"
@@ -196,5 +196,6 @@
    "yt_id": "BsRuAHKy3RI",
    "title": "Sítio Raimundo & Geniza — IMG_8259 (Uruará, Pará)"
   }
- ]
+ ],
+ "note_plot_id": "plot_id RG-P1 -> CEPOTX site code U-06-07 (governor-confirmed 2026-09-05)"
 }
