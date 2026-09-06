@@ -34,6 +34,11 @@
             "farm_id": "fazenda-dona-rosa",
             "manifest": "fazenda-dona-rosa.json",
             "updated": "2026-09-05"
+        },
+        {
+            "farm_id": "fazenda-santa-ana-bahia",
+            "manifest": "fazenda-santa-ana-bahia.json",
+            "updated": "2026-09-06"
         }
     ],
     "note": "Index of farm media manifests (Media Archives Pipeline / MAP — farm-media namespace). Farm IDs keyed per MEDIA_ARCHIVE_PIPELINE.md."
