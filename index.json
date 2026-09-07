@@ -1,55 +1,55 @@
 {
-    "index": [
-        {
-            "farm_id": "rancho-maranta-para",
-            "manifest": "rancho-maranta-para.json",
-            "updated": "2026-08-31"
-        },
-        {
-            "farm_id": "paulo-la-do-sitio-para",
-            "manifest": "paulo-la-do-sitio-para.json",
-            "updated": "2026-08-31"
-        },
-        {
-            "farm_id": "santa-anna-fazenda-para",
-            "manifest": "santa-anna-fazenda-para.json",
-            "updated": "2026-08-31"
-        },
-        {
-            "farm_id": "cleide",
-            "manifest": "cleide.json",
-            "updated": "2026-09-01"
-        },
-        {
-            "farm_id": "oscar-bahia",
-            "manifest": "oscar-bahia.json",
-            "updated": "2026-09-02"
-        },
-        {
-            "farm_id": "raimundo-geniza-para",
-            "manifest": "raimundo-geniza-para.json",
-            "updated": "2026-09-04"
-        },
-        {
-            "farm_id": "fazenda-dona-rosa",
-            "manifest": "fazenda-dona-rosa.json",
-            "updated": "2026-09-05"
-        },
-        {
-            "farm_id": "fazenda-santa-ana-bahia",
-            "manifest": "fazenda-santa-ana-bahia.json",
-            "updated": "2026-09-06"
-        },
-        {
-            "farm_id": "fazenda-sao-jorge-bahia",
-            "manifest": "fazenda-sao-jorge-bahia.json",
-            "updated": "2026-09-06"
-        },
-        {
-            "farm_id": "fazenda-clara-bahia",
-            "manifest": "fazenda-clara-bahia.json",
-            "updated": "2026-09-06"
-        }
-    ],
-    "note": "Index of farm media manifests (Media Archives Pipeline / MAP — farm-media namespace). Farm IDs keyed per MEDIA_ARCHIVE_PIPELINE.md."
+ "index": [
+  {
+   "farm_id": "rancho-maranta-para",
+   "manifest": "rancho-maranta-para.json",
+   "updated": "2026-08-31"
+  },
+  {
+   "farm_id": "paulo-la-do-sitio-para",
+   "manifest": "paulo-la-do-sitio-para.json",
+   "updated": "2026-08-31"
+  },
+  {
+   "farm_id": "santa-anna-fazenda-para",
+   "manifest": "santa-anna-fazenda-para.json",
+   "updated": "2026-08-31"
+  },
+  {
+   "farm_id": "cleide",
+   "manifest": "cleide.json",
+   "updated": "2026-09-01"
+  },
+  {
+   "farm_id": "oscar-bahia",
+   "manifest": "oscar-bahia.json",
+   "updated": "2026-09-07"
+  },
+  {
+   "farm_id": "raimundo-geniza-para",
+   "manifest": "raimundo-geniza-para.json",
+   "updated": "2026-09-04"
+  },
+  {
+   "farm_id": "fazenda-dona-rosa",
+   "manifest": "fazenda-dona-rosa.json",
+   "updated": "2026-09-05"
+  },
+  {
+   "farm_id": "fazenda-santa-ana-bahia",
+   "manifest": "fazenda-santa-ana-bahia.json",
+   "updated": "2026-09-06"
+  },
+  {
+   "farm_id": "fazenda-sao-jorge-bahia",
+   "manifest": "fazenda-sao-jorge-bahia.json",
+   "updated": "2026-09-06"
+  },
+  {
+   "farm_id": "fazenda-clara-bahia",
+   "manifest": "fazenda-clara-bahia.json",
+   "updated": "2026-09-06"
+  }
+ ],
+ "note": "Index of farm media manifests (Media Archives Pipeline / MAP — farm-media namespace). Farm IDs keyed per MEDIA_ARCHIVE_PIPELINE.md."
 }
