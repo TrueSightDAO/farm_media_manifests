@@ -29,7 +29,7 @@
       "lng_max": -39.1037
     }
   },
-  "generated_at_utc": "2026-09-07T11:13:17.934654+00:00",
+  "generated_at_utc": "2026-09-07T15:53:12.729202+00:00",
   "items": [
     {
       "file": "IMG_7996.MOV",
@@ -168,13 +168,15 @@
       "longitude": -39.1038,
       "captured_at": "2023-09-18T14:05:47",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "Não, não é? Não é? O que é? O que é? O que é? É um bote de caminhão O rádio está comendo a nós Esse é um bom fome, é um fome que realmente se muda e aqui é um pico, a gente tem um pico de descanso, um pico de descanso, e aqui é o pico de descanso. e aqui é um pico de descanso.",
       "objects": [],
       "yt_id": "v7oGJ_ZYxLs",
       "status": "UPLOADED",
       "duration_s": 48.7,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.721134+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8007.HEIC",
@@ -874,13 +876,15 @@
       "longitude": -39.1058,
       "captured_at": "2023-09-18T14:38:13",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "Você pode explicar um pouquinho a história da fazenda? Sim. A fazenda está situada em TACARE. A NISMA, a Uniscipe, que digita. Caré, as magas do Rio de Conta, esse Rio aqui, que é um Rio, entendeu muito calbaloso na época das cheias mesmo, ele é um Rio que realmente tem muitos afluentes. E trabalhando aqui na fazenda, ela fazenda ela produz cacau, que é a sua principal cultura, o cacau, e segundo, a saí depois, gado de leite e também explorando turismo. Aqui na farmíade, nós produzimos três coisas, como a primeira, o chocô é cacau. O segundo é a saí, e o segundo é milky, milky por causa. Ok, oh wow, ok.",
       "objects": [],
       "yt_id": "xWJ-qRrYi6Y",
       "status": "UPLOADED",
       "duration_s": 68.5,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.721863+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8056.MOV",
@@ -968,13 +972,15 @@
       "longitude": -39.1059,
       "captured_at": "2023-09-18T14:50:09",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "Qual é o big is one bet? Qual o tamanho de um bet? De um lote? De um lote? A lote depende de quantas caixas você, o lote, você denomina cada secaje que você faz, você denomina um lote, por exemplo, essa semana você faz, não é você colocar lote, você só para você não misturar os lotes, você classifica de acordo. Então, eu não tenho a ver com a colheita, não? Tem a ver com a colheita. Qual é o muito coxo? O coxo não é o nosso coxo, tem um pecho em size. Não tem quantas caixas. Não tem quantas caixas. E não tem quantas caixas, porque tem quantas caixas. Mas um pecho é related com a sua vez, é uma caixa de um lote de um lote de um lote de um lote.",
       "objects": [],
       "yt_id": "dqBLV1v4i1o",
       "status": "UPLOADED",
       "duration_s": 53.8,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.722543+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8065.MOV",
@@ -1017,13 +1023,15 @@
       "longitude": -39.1058,
       "captured_at": "2023-09-18T14:53:00",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "é a parte de a turna do fermentação, que é o momento da massa e o momento da fermentação, e é o momento da massa depois da processos fermentação. Sim, é bom. E é a informação do dia da processos da dripa e é a informação do dia da casa. Ok, eu já tenho.",
       "objects": [],
       "yt_id": "lMxDl0uxUrc",
       "status": "UPLOADED",
       "duration_s": 58.8,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.723147+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8068.MOV",
@@ -1066,13 +1074,15 @@
       "longitude": -39.1058,
       "captured_at": "2023-09-18T14:55:55",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "O processo é acelhado e acelhado por a alimentação, acelhado por a descoção e os propriedades. Mas o processo é acelhado quando está em visual, em a harvastinha. Eu sou o de Clasified. E separo 1x1. É o Virgoli, é? Ok, nós fazemos fruto com maturação certa, que é assim, todos ele é assim. Cite em The Right Point of Maturity. Se tiver um dano ou uma doença no fruto é descartado para ir para um cacau de segunda qualidade. Se tem algum image ou um deixe, né? Apera-se para a outra coisa de coco. Sim, não pode fazer isso aqui, né? Sim, não pode fazer isso. É só a perfecta, um. Apera-se, um, né? Sim, ok. Apera-se, é bom. Apera-se é bom. Apera-se é bom.",
       "objects": [],
       "yt_id": "7H_8U9A-n-Q",
       "status": "UPLOADED",
       "duration_s": 68.4,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.724408+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8071.MOV",
@@ -1083,13 +1093,15 @@
       "longitude": -39.1058,
       "captured_at": "2023-09-18T14:57:30",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "nossa secagem natural. Feita o sol e nós temos a barcaça e temos também a estufa solar. Oh oh oh oh... Oh oh oh oh oh oh, dry and process. It's a natural by the sun. Yeah. Okay. We have two stages. One is called barcaça. Uhum. Remember barcaça? Yeah. When we... Yeah. That would. Yeah, with the... Yeah, with the... In the... And they have a... Like a... Glass house. Oh, glass house? A Greenhouse. Ah, o que é isso? O que é? Caralho também.",
       "objects": [],
       "yt_id": "nl0t-T-E0rs",
       "status": "UPLOADED",
       "duration_s": 63.2,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.725021+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8072.MOV",
@@ -1100,13 +1112,15 @@
       "longitude": -39.1059,
       "captured_at": "2023-09-18T14:59:56",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "e em primeiro 30 dias, o bim é muito fermento. Ah, e dois, e também é fermento em alunçana? Sim, a gente pega o sol, o sol tiver muito quente, assim, em 2011, uma da tarde, muito quente, você tem que fechar a barcaça. Se o sangue é muito forte, você tem que se fechar a barcaça. Ah, não é ver porque você não pode mais cidença, muito calor, nas amêndos, ainda que ela está subindo, ela ainda está... Um cacão ainda está muito úmido, tem muito água ainda, então você não pode evaporar, você não pode esquentar, de criaça.",
       "objects": [],
       "yt_id": "4ho4dS5gA8U",
       "status": "UPLOADED",
       "duration_s": 77.3,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.725672+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8078.MOV",
@@ -1545,13 +1559,15 @@
       "longitude": -39.1059,
       "captured_at": "2023-09-18T15:26:58",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "os baterias são funcionando muito bem, não é? É tudo clima. Isso aqui está no terceiro. Entrou o sexta. Sando muito bem.",
       "objects": [],
       "yt_id": "s212qpNttb0",
       "status": "UPLOADED",
       "duration_s": 51.2,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.726348+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8110.MOV",
@@ -1562,13 +1578,15 @@
       "longitude": -39.1056,
       "captured_at": "2023-09-18T15:27:54",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "É isso? É isso? É muito bom. Você é bem bom? Sim. Ele disse que você tinha 40. 40? Sim. 40? Aqui, aqui, 40. Passa 30. 45, 36. Isso é muito bom, né? Sim. Você tem que ir para a rua e ir para a rua. Sim. A gente tem que ir para a rua e ir para a rua. Sim. Você pode ir para a rua. 48, 257°C. Sim. Sim. Sim. E então, isso é como é o dia de hoje? Sim. 3 dias. Sim. Então, uma vez, uma vez. Sim. É muito bom.",
       "objects": [],
       "yt_id": "f2RZd9BxtMw",
       "status": "UPLOADED",
       "duration_s": 58.6,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.726964+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8111.HEIC",
@@ -2277,13 +2295,15 @@
       "longitude": -39.106,
       "captured_at": "2023-09-18T15:43:43",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "Ok, esse é o que é a processa. Ok? Oh! Tô tentando? Não? Eu acho que há uma séria de cunho. É uma ação. Uma ação de cunho. O que é que eu vou fazer é que eu não vou fazer. Então vou fazer um cunho de cunho. Eu vou fazer um cunho de cunho de cunho. Não vou fazer um cunho de cunho de cunho.",
       "objects": [],
       "yt_id": "qp3m6oQOqdc",
       "status": "UPLOADED",
       "duration_s": 47.3,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.727700+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8165.MOV",
@@ -2750,13 +2770,15 @@
       "longitude": -39.1085,
       "captured_at": "2023-09-18T16:02:52",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "e eles vão fazer uma faceta. Obrigado. Eles têm canos e eles têm toque, milhão, canaliza, sobretudo, aqui. Eu sei, eles estão aqui, né? Sim. Sim. É muito grande. Muito grande. Eu vou fazer um barulho de arroz e um plástico. Sim, é bem. Vamos ver o que é isso.",
       "objects": [],
       "yt_id": "GVXeD-0QM1M",
       "status": "UPLOADED",
       "duration_s": 34.8,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.728424+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8197.MOV",
@@ -2953,13 +2975,15 @@
       "longitude": -39.1084,
       "captured_at": "2023-09-18T16:08:54",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "Quando o vio aqui está aqui, o vio se desce, e o vio, tudo, ok, é só você, você, você, você, você, oh wow, tudo se desculpa aqui. O que vai pegar, ok. O que? Oh, olha só!",
       "objects": [],
       "yt_id": "ISHenYHMtis",
       "status": "UPLOADED",
       "duration_s": 51.2,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.729064+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8215.MOV",
@@ -3050,13 +3074,15 @@
       "longitude": -39.1054,
       "captured_at": "2023-09-18T16:19:26",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "Você está? Você se sente? Sim Eu sou o que está naquele lugar O survivor? O survivor O survivor? O survivor O survivor O survivor Não não se sente a bota Não, você se sente a bota F******",
       "objects": [],
       "yt_id": "hoTvQ_6qE50",
       "status": "UPLOADED",
       "duration_s": 78.4,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.729107+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8223.MOV",
@@ -3754,13 +3780,15 @@
       "longitude": -39.1053,
       "captured_at": "2023-09-18T17:02:05",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "Adios, adios! E então, esse é o 5KG? Oh, adios! Adios, o bambiano! Adios, amigo!",
       "objects": [],
       "yt_id": "XR96lbXhY8U",
       "status": "UPLOADED",
       "duration_s": 12.9,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.729144+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8281.MOV",
@@ -3803,13 +3831,15 @@
       "longitude": -39.105,
       "captured_at": "2023-09-18T17:02:50",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "E aí, agora é o que é isso? É um coreio de ferras, e é um desco de fio de fio de fio, que é um desco de fio de fio de fio de fio",
       "objects": [],
       "yt_id": "5AxBWQtImDo",
       "status": "UPLOADED",
       "duration_s": 15.4,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.729171+00:00",
+      "transcription_model": "faster-whisper-base"
     },
     {
       "file": "IMG_8284.MOV",
@@ -3820,14 +3850,17 @@
       "longitude": -39.1042,
       "captured_at": "2023-09-18T17:07:56",
       "creation_date": "2023-09-18",
-      "transcription_status": "pending",
-      "transcription": null,
+      "transcription_status": "done",
+      "transcription": "Eu não sabia que esse é o lugar. Nós continuamos naquela sede toda a atravessando de barro. É, é. Isso é que tinha isso. Trada, na pede. Eu estava lendo o cheio de tinha.",
       "objects": [],
       "yt_id": "-6bUEInoZ08",
       "status": "UPLOADED",
       "duration_s": 27.1,
-      "uploaded_at": "2026-09-07T11:11:00Z"
+      "uploaded_at": "2026-09-07T11:11:00Z",
+      "transcribed_at_utc": "2026-09-07T15:53:12.729198+00:00",
+      "transcription_model": "faster-whisper-base"
     }
   ],
-  "note_2026_09_07": "Wave-1 curated subset of 16 videos transcoded (H.264) and uploaded to YouTube (yt_ids set, status UPLOADED). Transcoder: HEVC->H.264 crf23 yuv420p +faststart. Sidecar schema v2.0. Transcription pending (faster-whisper pt)."
+  "note_2026_09_07": "Wave-1 curated subset of 16 videos transcoded (H.264) and uploaded to YouTube (yt_ids set, status UPLOADED). Transcoder: HEVC->H.264 crf23 yuv420p +faststart. Sidecar schema v2.0. Transcription pending (faster-whisper pt).",
+  "note_2026_09_07b": "wave-1 transcription: 16/16 curated videos transcribed (faster-whisper base, PT)"
 }
