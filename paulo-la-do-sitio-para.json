@@ -2,15 +2,29 @@
  "farm_id": "paulo-la-do-sitio-para",
  "plots": [],
  "source_zips": [
-  "la_do_sitio.zip"
+  "la_do_sitio.zip",
+  "paulo_2024.zip"
  ],
- "generated": "2026-08-31",
+ "generated": "2026-09-09",
  "processed_by": "MEDIA_ARCHIVE_PIPELINE.md",
  "counts": {
-  "MOV": 72
+  "MOV": 74
  },
- "gps_coverage": "65/72 files with GPS",
+ "gps_coverage": "67/74 files with GPS",
  "items": [
+  {
+   "file": "IMG_3873.MOV",
+   "size_bytes": 22672561,
+   "sha256": "258bdedf5659b08e1e6e8ddba989b73ff6e29cd4bacb4d9dffc5ebf6fb0b3381",
+   "duration_s": "17.112000",
+   "latitude": -3.3856,
+   "longitude": -51.8508,
+   "objects": [
+    "person"
+   ],
+   "yt_id": "309qOI_JR0I",
+   "uploaded_at": "2026-09-09T07:56:30Z"
+  },
   {
    "file": "IMG_3874.MOV",
    "size_bytes": 15023880,
@@ -748,6 +762,19 @@
    ],
    "yt_id": "6q0ms4TwKTU",
    "uploaded_at": "2026-08-31T19:02:50Z"
+  },
+  {
+   "file": "IMG_4016.MOV",
+   "size_bytes": 5909048,
+   "sha256": "3be16afe5563546d97f31aaeae59016579078a974556b358ad09b3002ed06e0d",
+   "duration_s": "5.571667",
+   "latitude": -3.3887,
+   "longitude": -51.8528,
+   "objects": [
+    "person"
+   ],
+   "yt_id": "TGZLWyLMQrw",
+   "uploaded_at": "2026-09-09T07:56:31Z"
   },
   {
    "file": "IMG_4018.MOV",
