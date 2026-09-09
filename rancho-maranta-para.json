@@ -13,7 +13,8 @@
  "processed_by": "MEDIA_ARCHIVE_PIPELINE.md",
  "counts": {
   "MOV": 37,
-  "HEIC": 15
+  "HEIC": 15,
+  "variety_labelled": 4
  },
  "gps_coverage": "37/37 MOV; 0/15 HEIC (iPhone strips stills GPS)",
  "items": [
@@ -303,7 +304,10 @@
    "longitude": -52.5775,
    "gps_raw": "3 deg 17' 36.60\" S, 52 deg 34' 39.00\" W, 137.415 m Above Sea Level",
    "duration_s": 15.4,
-   "size_bytes": 19147109
+   "size_bytes": 19147109,
+   "variety": "B + A",
+   "variety_attested_by": "farmer-verbatim",
+   "variety_notes": "farmer names CCN-51 'Ponta Verde'; holds furrowed red-purple pod (B) vs smooth green pods (A)"
   },
   {
    "file": "plot2/IMG_7663.MOV",
@@ -325,7 +329,10 @@
    "longitude": -52.5789,
    "gps_raw": "3 deg 17' 40.92\" S, 52 deg 34' 44.04\" W, 131.921 m Above Sea Level",
    "duration_s": 29.9,
-   "size_bytes": 33608139
+   "size_bytes": 33608139,
+   "variety": "A",
+   "variety_attested_by": "farmer-verbatim",
+   "variety_notes": "large smooth bright-yellow pod; pest-vs-fungi teaching"
   },
   {
    "file": "plot2/IMG_7676.MOV",
@@ -422,7 +429,10 @@
    "longitude": -52.5783,
    "gps_raw": "3 deg 17' 39.12\" S, 52 deg 34' 41.88\" W, 133.063 m Above Sea Level",
    "duration_s": 31.7,
-   "size_bytes": 35497505
+   "size_bytes": 35497505,
+   "variety": "A",
+   "variety_attested_by": "farmer-verbatim",
+   "variety_notes": "year-round fruiting tree; smooth shallow-ribbed pods green->yellow"
   },
   {
    "file": "plot2/IMG_7658.HEIC",
@@ -453,7 +463,10 @@
    "longitude": -52.5783,
    "gps_raw": "3 deg 17' 39.12\" S, 52 deg 34' 41.88\" W, 134.037 m Above Sea Level",
    "duration_s": 24.4,
-   "size_bytes": 26990925
+   "size_bytes": 26990925,
+   "variety": "A vs B",
+   "variety_attested_by": "farmer-verbatim",
+   "variety_notes": "grafting (enxertia) vs seed-planted cacau comum; seasonal contrast"
   },
   {
    "file": "plot2/IMG_7667.MOV",
@@ -562,5 +575,44 @@
    "duration_s": 53.6,
    "size_bytes": 80566125
   }
- ]
+ ],
+ "cacao_varieties": {
+  "note": "Farmer-attested variety pair, Rancho Maranta plot 2 (field walkthrough clips IMG_7654/7669/7672/7673). See agentic_ai_context agroverse/CACAO_VARIETIES_PARA_DOSSIER.md.",
+  "attestation": "farmer-verbatim (PT+EN quotes in dossier); Ponta Verde is a local/biotype name for grafted CCN-51, not a registry denomination",
+  "varieties": [
+   {
+    "id": "A",
+    "name": "CCN-51 'Ponta Verde' (grafted)",
+    "label": "CCN-51 Ponta Verde",
+    "habit": "grafted clone (enxertia), year-round fruiting",
+    "pod": "smooth, shallow ribbing, blunt tip, bright yellow when ripe",
+    "attested_by": "farmer (Jedielcio-led walkthrough), IMG_7654 verbatim",
+    "confidence": "farmer-verbatim"
+   },
+   {
+    "id": "B",
+    "name": "common / traditional cacao (forastero-type)",
+    "label": "common (cacau comum)",
+    "habit": "seed-planted, strongly seasonal, fruitless period",
+    "pod": "deeply furrowed (8-10 ridges), pointed tip, red-purple when ripe",
+    "attested_by": "farmer, IMG_7673 verbatim ('cacau comum')",
+    "confidence": "farmer-verbatim"
+   }
+  ],
+  "guide_assets": {
+   "farm-media-raw": "https://github.com/TrueSightDAO/farm-media-raw/tree/main/rancho-maranta-para/photos",
+   "dossier_pdf": "rancho-maranta-para/photos/Cacau_Para_Two_Varieties_Report_v6.pdf",
+   "colour_key": "rancho-maranta-para/photos/badge_A.png, badge_B.png",
+   "annotated_frames": [
+    "f_A_C_smooth_yellow_pod.jpg",
+    "f_A_D_smooth_yellowgreen_on_tree.jpg",
+    "f_A_E_green_pods_tree.jpg",
+    "f_B_A_furrowed_redpurple_pod.jpg",
+    "f_A_vs_B_B_side_by_side_branch.jpg"
+   ],
+   "montage": "fs8_contrast_both_varieties.jpg",
+   "hero": "fs8-hero-variety-row.jpg"
+  }
+ },
+ "updated_varieties": "2026-09-09"
 }
