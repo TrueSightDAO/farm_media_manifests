@@ -49,6 +49,11 @@
    "farm_id": "fazenda-clara-bahia",
    "manifest": "fazenda-clara-bahia.json",
    "updated": "2026-09-06"
+  },
+  {
+   "farm_id": "medicilandia-convention-2024",
+   "manifest": "medicilandia-convention-2024.json",
+   "updated": "2026-09-09"
   }
  ],
  "note": "Index of farm media manifests (Media Archives Pipeline / MAP — farm-media namespace). Farm IDs keyed per MEDIA_ARCHIVE_PIPELINE.md."
