@@ -1,0 +1,848 @@
+{
+ "farm_id": "sitio-torres-pacaja-para",
+ "site_name": "Sitio Torres (Pacaja) - recorded as 'Sitio 2' (propriedade/plot)",
+ "owner": "Alexandre (CoopCao director-coordinator)",
+ "site_code": "N-06-66",
+ "site_code_status": "ASSUMED - read from phone-translator screenshot loc3/IMG_9694.PNG ('O codigo dele e N0666'); OUTSIDE the observed COOPCAO roster range (N-06-02..) in CEPOTX_SITE_CODE_REGISTRY.md -> needs CEPOTX registry confirmation. Plot N-06-66 already registered in sunmint/plots/index.geojson (farm_id sitio-torres-pacaja-para).",
+ "cooperative": "CoopCao (CEPOTX family)",
+ "property_status": "family holding; CoopCao director-coordinator property; Wi-Fi SSID SITIO TORRES on site",
+ "municipality": "Pacaja, Para, Brazil",
+ "plots": [
+  {
+   "plot_id": "N-06-66",
+   "role": "ENRICHMENT",
+   "plot_type": "enrichment (cacao TRUE/hibrido + small clonal)",
+   "hectares": 4.5,
+   "boundary_authority": "approx",
+   "plot_id_status": "already registered in sunmint/plots/index.geojson (bbox == walk bbox)",
+   "note": "Claimed 4.5 ha; cacao 'verdadeiro, hibrido' + small clonal block; plot ages 2/4/5 yr plus a >20 yr block; shade tree = cumaru (native Amazon). Sampled ~120 kg; target first lot 600 kg. GPS walk hull 19.14 ha covers nursery + mature blocks (not just the plotted area) -> needs CAR/walk to reconcile."
+  }
+ ],
+ "source_zips": [
+  "20260909_pacaje_location_2_nursery.zip"
+ ],
+ "source_zip_note": "Work dir is /media/pacaje_work/loc3/ but the source zip is named ..._location_2_nursery.zip (IMG_95xx..96xx range). NAMING MISMATCH flagged for governor confirmation; zip label says 'location 2', dir label says 'loc3'.",
+ "dedupe_note": "No duplicates: 0 intra-set duplicate HEIC hashes; 0 identical hashes vs loc1 (cacau-na-veia-pacaje); 0 filename collisions with loc1.",
+ "generated": "2026-09-10",
+ "processed_by": "MEDIA_ARCHIVE_PIPELINE.md 6b (faster-whisper small, pt)",
+ "counts": {
+  "MOV": 35,
+  "HEIC": 38,
+  "PNG": 8
+ },
+ "gps_coverage": "72/81 files with GPS",
+ "gps_center": [
+  -3.534869,
+  -51.14476
+ ],
+ "gps_extent": {
+  "lat": [
+   -3.5402,
+   -3.5288
+  ],
+  "lng": [
+   -51.1455,
+   -51.1433
+  ],
+  "unique_points": 59
+ },
+ "field_notes": {
+  "hectares": "4.5 ha claimed (governor/thread 24442); GPS walk hull 19.14 ha over the visited nursery+mature blocks",
+  "cacao": "true/hybrid ('verdadeiro, hibrido') + small clonal block",
+  "plot_age": "2 / 4 / 5 yr blocks plus a >20 yr block",
+  "shade_tree": "cumaru (native Amazon)",
+  "sample": "~120 kg sampled at visit; target first lot 600 kg",
+  "theme": "CoopCao director-coordinator holding; 8 registered properties in the coop"
+ },
+ "items": [
+  {
+   "file": "IMG_9622.HEIC",
+   "creation_date": "2026:09:09 12:33:24",
+   "plot_id": "N-06-66",
+   "latitude": -3.5292,
+   "longitude": -51.1452,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9623.MOV",
+   "creation_date": "2026:09:09 15:34:42",
+   "plot_id": "N-06-66",
+   "latitude": -3.5301,
+   "longitude": -51.145,
+   "duration": "0:02:35",
+   "transcription_language": "pt",
+   "transcription": "A japonesa fica pura, a cola como vê? É boquínio, sabe impediágua, comesa, por lá, querendo na vida de passei lá, conheço a mãe do nao dia muitos anos, tem duas meninas que são filhos da Aurenda, Aurenda foi casada com um tio dele, então as duas meninas, Aurenda está lá, então os meninas são o primo deles, eles são o primo dele, né?",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9624.MOV",
+   "creation_date": "2026:09:09 15:37:43",
+   "plot_id": "N-06-66",
+   "latitude": -3.5393,
+   "longitude": -51.1442,
+   "duration": "0:01:04",
+   "transcription_language": "pt",
+   "transcription": "Quanto hectares? 4,5 hectares. O nome da fazenda? Aqui no caso é CITO, CITO 2. Quanto anos na fazenda? Após a área de plantada é de várias idades, tem uma área mais velha que lá em cima, tem mais de 20 anos, essa aqui é 4 anos, essa ali é 5 e essa aqui tem 2. Cacau, verdadeiro, hibrido? Isso, turos. Só tem um pouco lá embaixo e eu vou ter clonado, mas não, pouca coisa. Bom, e você nome? Alexandre. Bom, prazer.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9625.MOV",
+   "creation_date": "2026:09:09 15:39:23",
+   "plot_id": "N-06-66",
+   "latitude": -3.5394,
+   "longitude": -51.1443,
+   "duration": "0:00:43",
+   "transcription_language": "pt",
+   "transcription": "As manis, as manis são uma grande plantação, como você pode ver, não há muito de árvores com uma forma.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9626.HEIC",
+   "creation_date": "2026:09:09 12:40:09",
+   "plot_id": "N-06-66",
+   "latitude": -3.5393,
+   "longitude": -51.1447,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9627.MOV",
+   "creation_date": "2026:09:09 15:40:37",
+   "plot_id": "N-06-66",
+   "latitude": -3.5394,
+   "longitude": -51.1448,
+   "duration": "13.11 s",
+   "transcription_language": "pt",
+   "transcription": null,
+   "transcription_status": "silent",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9628.MOV",
+   "creation_date": "2026:09:09 15:41:08",
+   "plot_id": "N-06-66",
+   "latitude": -3.5394,
+   "longitude": -51.145,
+   "duration": "0:00:38",
+   "transcription_language": "pt",
+   "transcription": null,
+   "transcription_status": "silent",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9629.HEIC",
+   "creation_date": "2026:09:09 12:42:00",
+   "plot_id": "N-06-66",
+   "latitude": -3.5394,
+   "longitude": -51.1453,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9630.MOV",
+   "creation_date": "2026:09:09 15:42:21",
+   "plot_id": "N-06-66",
+   "latitude": -3.5394,
+   "longitude": -51.1453,
+   "duration": "0:00:34",
+   "transcription_language": "pt",
+   "transcription": "Viva? Não, o vojá não está resistindo. Mesmo na sombra? Isso. Ou temos que estar em lugar mais abertos? Tem um naquela roça em lá, naquela roça embaixo. Porque lá acho que são poucos que está escapando. Aqui nesse meio que não tem, assim uma média, foi 30, 40. Essa média de 30 horas não. Aqui ele está fazendo o que chamamos de enriquecimento. Aqui chama-se enriquecimento.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9631.PNG",
+   "creation_date": null,
+   "plot_id": "N-06-66",
+   "latitude": null,
+   "longitude": null,
+   "role": "screenshot"
+  },
+  {
+   "file": "IMG_9632.HEIC",
+   "creation_date": "2026:09:09 12:44:09",
+   "plot_id": "N-06-66",
+   "latitude": null,
+   "longitude": null,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9633.HEIC",
+   "creation_date": "2026:09:09 12:44:55",
+   "plot_id": "N-06-66",
+   "latitude": -3.5392,
+   "longitude": -51.1453,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9634.HEIC",
+   "creation_date": "2026:09:09 12:45:30",
+   "plot_id": "N-06-66",
+   "latitude": -3.5392,
+   "longitude": -51.1455,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9635.HEIC",
+   "creation_date": "2026:09:09 12:46:14",
+   "plot_id": "N-06-66",
+   "latitude": -3.5393,
+   "longitude": -51.1455,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9636.HEIC",
+   "creation_date": "2026:09:09 12:46:53",
+   "plot_id": "N-06-66",
+   "latitude": -3.5395,
+   "longitude": -51.1455,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9637.PNG",
+   "creation_date": null,
+   "plot_id": "N-06-66",
+   "latitude": null,
+   "longitude": null,
+   "role": "screenshot"
+  },
+  {
+   "file": "IMG_9638.HEIC",
+   "creation_date": "2026:09:09 12:48:13",
+   "plot_id": "N-06-66",
+   "latitude": -3.5394,
+   "longitude": -51.1455,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9639.HEIC",
+   "creation_date": "2026:09:09 12:48:43",
+   "plot_id": "N-06-66",
+   "latitude": -3.5396,
+   "longitude": -51.1455,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9640.MOV",
+   "creation_date": "2026:09:09 15:50:06",
+   "plot_id": "N-06-66",
+   "latitude": -3.5401,
+   "longitude": -51.1454,
+   "duration": "17.91 s",
+   "transcription_language": "pt",
+   "transcription": "Essa aqui é uma roça que um plantio que tem mais de 20 anos de desistência, então já tem árvores mais desenvolvidas, lá tem castanheira, tem outras árvores, tem mogno ali, né?",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9641.MOV",
+   "creation_date": "2026:09:09 15:51:05",
+   "plot_id": "N-06-66",
+   "latitude": -3.5402,
+   "longitude": -51.1454,
+   "duration": "21.14 s",
+   "transcription_language": "pt",
+   "transcription": "Sim, então as arvores aqui estão ficando mais velhas e velhas, enquanto nós caminhamos mais longe e mais longe dentro do plano do mar. Olha isso. Sim. Sim. Olha isso. Oh, uhum. Ok. Uhum.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9642.HEIC",
+   "creation_date": "2026:09:09 12:52:11",
+   "plot_id": "N-06-66",
+   "latitude": -3.5402,
+   "longitude": -51.1454,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9643.MOV",
+   "creation_date": "2026:09:09 15:52:13",
+   "plot_id": "N-06-66",
+   "latitude": -3.5402,
+   "longitude": -51.1454,
+   "duration": "23.65 s",
+   "transcription_language": "pt",
+   "transcription": null,
+   "transcription_status": "silent",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9644.MOV",
+   "creation_date": "2026:09:09 15:52:54",
+   "plot_id": "N-06-66",
+   "latitude": -3.5401,
+   "longitude": -51.1451,
+   "duration": "10.01 s",
+   "transcription_language": "pt",
+   "transcription": null,
+   "transcription_status": "silent",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9646.MOV",
+   "creation_date": "2026:09:09 15:54:18",
+   "plot_id": "N-06-66",
+   "latitude": -3.5401,
+   "longitude": -51.1451,
+   "duration": "5.00 s",
+   "transcription_language": "pt",
+   "transcription": null,
+   "transcription_status": "silent",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9647.HEIC",
+   "creation_date": "2026:09:09 12:54:36",
+   "plot_id": "N-06-66",
+   "latitude": -3.54,
+   "longitude": -51.145,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9648.HEIC",
+   "creation_date": "2026:09:09 12:55:27",
+   "plot_id": "N-06-66",
+   "latitude": -3.5399,
+   "longitude": -51.145,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9649.MOV",
+   "creation_date": "2026:09:09 15:55:45",
+   "plot_id": "N-06-66",
+   "latitude": -3.5398,
+   "longitude": -51.145,
+   "duration": "27.19 s",
+   "transcription_language": "pt",
+   "transcription": "Essa planta é utilizada principalmente para consumir o fruto, que você bebe um suco delicioso, fazer licores, licor, mas ela tem uma tinta, tanto no fruto como na casca, que os indígenas, na Amazônia, usam para pintar o corpo, os indígenas, os rituais.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9650.HEIC",
+   "creation_date": "2026:09:09 12:57:36",
+   "plot_id": "N-06-66",
+   "latitude": -3.5395,
+   "longitude": -51.1446,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9652.MOV",
+   "creation_date": "2026:09:09 15:59:48",
+   "plot_id": "N-06-66",
+   "latitude": -3.5394,
+   "longitude": -51.1443,
+   "duration": "8.84 s",
+   "transcription_language": "pt",
+   "transcription": "Parece que já está saindo. Agora vamos ir para o sangue. Vamos ver o sinal do fermento.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9653.MOV",
+   "creation_date": "2026:09:09 16:03:27",
+   "plot_id": "N-06-66",
+   "latitude": -3.5369,
+   "longitude": -51.1443,
+   "duration": "25.62 s",
+   "transcription_language": "pt",
+   "transcription": "Daçura. Giant tree, olha. É um grande daçura. Muito grande. Obrigado.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9654.HEIC",
+   "creation_date": "2026:09:09 13:04:03",
+   "plot_id": "N-06-66",
+   "latitude": -3.5369,
+   "longitude": -51.1443,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9655.HEIC",
+   "creation_date": "2026:09:09 13:04:05",
+   "plot_id": "N-06-66",
+   "latitude": -3.5369,
+   "longitude": -51.1443,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9656.HEIC",
+   "creation_date": "2026:09:09 13:04:13",
+   "plot_id": "N-06-66",
+   "latitude": -3.5369,
+   "longitude": -51.1443,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9657.MOV",
+   "creation_date": "2026:09:09 16:04:39",
+   "plot_id": "N-06-66",
+   "latitude": -3.5369,
+   "longitude": -51.1443,
+   "duration": "16.38 s",
+   "transcription_language": "pt",
+   "transcription": "Tudo bem, Gideo? Estamos aqui na floresta, no sombro. Oh, gigante avorista, né? Uh! Semanos, né? Sim.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9658.MOV",
+   "creation_date": "2026:09:09 16:07:20",
+   "plot_id": "N-06-66",
+   "latitude": -3.5366,
+   "longitude": -51.1444,
+   "duration": "0:01:09",
+   "transcription_language": "pt",
+   "transcription": "Está pronto, não? Está para o caio. É frio. Você pode ver o topo da árvore. É muito frio. É grande, não é? Sim. Se você pegar o frio da árvore. É um brasilão. Ah, aromática. Ah, que merda. Oh, bom. Ah, olha. Ah, isso é frio. A árvore está caindo. Sim, sim. Sim, sim, sim. Bruto. Bruto. Ah. É tipo fruto. Sim. As árvores começam a cair. E as árvores. E esse é o frio. Oh, meu Deus. Eles vão para a árvore. Esse frio. É uma grande árvore. É um brasilinho. É um brasilinho. Sim.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9659.HEIC",
+   "creation_date": "2026:09:09 13:09:10",
+   "plot_id": "N-06-66",
+   "latitude": -3.5365,
+   "longitude": -51.1441,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9660.MOV",
+   "creation_date": "2026:09:09 16:09:11",
+   "plot_id": "N-06-66",
+   "latitude": -3.5366,
+   "longitude": -51.1438,
+   "duration": "0:00:30",
+   "transcription_language": "pt",
+   "transcription": "Um limpo de cendinho, ua! Um dos de cendinho. Oh, uau, olha isso. Oh!",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9661.MOV",
+   "creation_date": "2026:09:09 16:09:49",
+   "plot_id": "N-06-66",
+   "latitude": -3.5367,
+   "longitude": -51.1436,
+   "duration": "0.47 s",
+   "transcription_language": "pt",
+   "transcription": "Legendas pela comunidade de Amara.org",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9662.HEIC",
+   "creation_date": "2026:09:09 13:09:55",
+   "plot_id": "N-06-66",
+   "latitude": -3.5367,
+   "longitude": -51.1436,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9663.HEIC",
+   "creation_date": "2026:09:09 13:09:59",
+   "plot_id": "N-06-66",
+   "latitude": -3.5367,
+   "longitude": -51.1436,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9664.MOV",
+   "creation_date": "2026:09:09 16:10:06",
+   "plot_id": "N-06-66",
+   "latitude": -3.5366,
+   "longitude": -51.1435,
+   "duration": "0:00:48",
+   "transcription_language": "pt",
+   "transcription": "Oh, gigante, oh, wow. Gigante, né? Então, eu não sei dizer que tem algum grão, alguns altos na farmácia. Eu não entendo como são altos. Olha o tamanho desse grão. Oh, wow. Isso é enorme. Eu acho que esse grão é mais que 100 anos altos. Ah, gigante. Antes de entrarmos, ele me disse que esse grão tem algo bem antigo. Eu não sei, é bem antigo, olha. Eu acho que é mais de 100 anos.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9665.MOV",
+   "creation_date": "2026:09:09 16:11:20",
+   "plot_id": "N-06-66",
+   "latitude": -3.5367,
+   "longitude": -51.1434,
+   "duration": "10.87 s",
+   "transcription_language": "pt",
+   "transcription": null,
+   "transcription_status": "silent",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9666.HEIC",
+   "creation_date": "2026:09:09 13:12:17",
+   "plot_id": "N-06-66",
+   "latitude": -3.5367,
+   "longitude": -51.1433,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9667.HEIC",
+   "creation_date": "2026:09:09 13:12:24",
+   "plot_id": "N-06-66",
+   "latitude": -3.5367,
+   "longitude": -51.1433,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9668.MOV",
+   "creation_date": "2026:09:09 16:14:08",
+   "plot_id": "N-06-66",
+   "latitude": -3.5367,
+   "longitude": -51.1433,
+   "duration": "0:00:34",
+   "transcription_language": "pt",
+   "transcription": "O que é isso? O que é isso? O que é isso? Então, nós estamos suportando o agrobarco projéctico. Essas são as árvores que estamos ajudando a preservar. Essa árvore, em si, é mais do que 100 anos anteriores. Vamos ver se é tão grande, certo? O que é isso? Nós estamos suportando o agrobarco projéctico, para manter esses 100 anos anteriores, para não que eles estiverem atrasados. Obrigado!",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9669.MOV",
+   "creation_date": "2026:09:09 16:15:04",
+   "plot_id": "N-06-66",
+   "latitude": -3.5367,
+   "longitude": -51.1434,
+   "duration": "4.43 s",
+   "transcription_language": "pt",
+   "transcription": "É? Oi. Tá se criando? Ah, oh. Tem que se levar assim.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9670.HEIC",
+   "creation_date": "2026:09:09 13:16:59",
+   "plot_id": "N-06-66",
+   "latitude": -3.5366,
+   "longitude": -51.1436,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9671.HEIC",
+   "creation_date": "2026:09:09 13:17:02",
+   "plot_id": "N-06-66",
+   "latitude": -3.5366,
+   "longitude": -51.1436,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9672.HEIC",
+   "creation_date": "2026:09:09 13:17:02",
+   "plot_id": "N-06-66",
+   "latitude": -3.5366,
+   "longitude": -51.1436,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9673.HEIC",
+   "creation_date": "2026:09:09 13:21:37",
+   "plot_id": "N-06-66",
+   "latitude": -3.5298,
+   "longitude": -51.1451,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9674.HEIC",
+   "creation_date": "2026:09:09 13:21:40",
+   "plot_id": "N-06-66",
+   "latitude": -3.5298,
+   "longitude": -51.1451,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9675.MOV",
+   "creation_date": "2026:09:09 16:21:43",
+   "plot_id": "N-06-66",
+   "latitude": -3.5298,
+   "longitude": -51.1451,
+   "duration": "9.71 s",
+   "transcription_language": "pt",
+   "transcription": null,
+   "transcription_status": "silent",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9676.HEIC",
+   "creation_date": "2026:09:09 13:22:03",
+   "plot_id": "N-06-66",
+   "latitude": -3.5299,
+   "longitude": -51.1451,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9677.HEIC",
+   "creation_date": "2026:09:09 13:22:07",
+   "plot_id": "N-06-66",
+   "latitude": -3.5299,
+   "longitude": -51.1451,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9678.MOV",
+   "creation_date": "2026:09:09 16:22:15",
+   "plot_id": "N-06-66",
+   "latitude": -3.5299,
+   "longitude": -51.1451,
+   "duration": "12.50 s",
+   "transcription_language": "pt",
+   "transcription": "Nós perdemos a sessão, então a toda farmácia é, literalmente, aberta de cacau-beins, neste momento. Então é o fermentação tanque, este aberto.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9679.MOV",
+   "creation_date": "2026:09:09 16:22:54",
+   "plot_id": "N-06-66",
+   "latitude": -3.5299,
+   "longitude": -51.1451,
+   "duration": "8.01 s",
+   "transcription_language": "pt",
+   "transcription": null,
+   "transcription_status": "silent",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9680.MOV",
+   "creation_date": "2026:09:09 16:23:38",
+   "plot_id": "N-06-66",
+   "latitude": -3.5299,
+   "longitude": -51.1451,
+   "duration": "27.02 s",
+   "transcription_language": "pt",
+   "transcription": "O que é mostrado é demonstrar como fazer o trecho no recorde. Então, o que é mostrado é explicar como fazer as filmes, então, nos ensino, no próximo ano. Nós estamos começando a entrar a cerca de 4 horas. Então, de onde nós fomos, a este lugar, há cerca de 4 horas.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9681.PNG",
+   "creation_date": null,
+   "plot_id": "N-06-66",
+   "latitude": null,
+   "longitude": null,
+   "role": "screenshot"
+  },
+  {
+   "file": "IMG_9682.HEIC",
+   "creation_date": "2026:09:09 13:27:44",
+   "plot_id": "N-06-66",
+   "latitude": -3.5295,
+   "longitude": -51.1452,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9683.HEIC",
+   "creation_date": "2026:09:09 13:27:48",
+   "plot_id": "N-06-66",
+   "latitude": -3.5295,
+   "longitude": -51.1452,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9684.HEIC",
+   "creation_date": "2026:09:09 13:27:51",
+   "plot_id": "N-06-66",
+   "latitude": -3.5295,
+   "longitude": -51.1452,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9685.HEIC",
+   "creation_date": "2026:09:09 13:27:56",
+   "plot_id": "N-06-66",
+   "latitude": -3.5295,
+   "longitude": -51.1452,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9686.HEIC",
+   "creation_date": "2026:09:09 13:27:59",
+   "plot_id": "N-06-66",
+   "latitude": -3.5295,
+   "longitude": -51.1452,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9687.HEIC",
+   "creation_date": "2026:09:09 13:29:24",
+   "plot_id": "N-06-66",
+   "latitude": -3.5288,
+   "longitude": -51.145,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9688.HEIC",
+   "creation_date": "2026:09:09 13:29:59",
+   "plot_id": "N-06-66",
+   "latitude": -3.5293,
+   "longitude": -51.1453,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9689.HEIC",
+   "creation_date": "2026:09:09 13:30:14",
+   "plot_id": "N-06-66",
+   "latitude": -3.5293,
+   "longitude": -51.1453,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9690.PNG",
+   "creation_date": null,
+   "plot_id": "N-06-66",
+   "latitude": null,
+   "longitude": null,
+   "role": "screenshot"
+  },
+  {
+   "file": "IMG_9691.PNG",
+   "creation_date": null,
+   "plot_id": "N-06-66",
+   "latitude": null,
+   "longitude": null,
+   "role": "screenshot"
+  },
+  {
+   "file": "IMG_9692.HEIC",
+   "creation_date": "2026:09:09 13:34:29",
+   "plot_id": "N-06-66",
+   "latitude": -3.5293,
+   "longitude": -51.1453,
+   "role": "photo"
+  },
+  {
+   "file": "IMG_9693.MOV",
+   "creation_date": "2026:09:09 16:34:54",
+   "plot_id": "N-06-66",
+   "latitude": -3.5293,
+   "longitude": -51.1453,
+   "duration": "16.48 s",
+   "transcription_language": "pt",
+   "transcription": "Esse formato de coisa é tudo que faz, hein? Sabe por abertura? Foi.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9694.PNG",
+   "creation_date": null,
+   "plot_id": "N-06-66",
+   "latitude": null,
+   "longitude": null,
+   "role": "screenshot"
+  },
+  {
+   "file": "IMG_9695.PNG",
+   "creation_date": null,
+   "plot_id": "N-06-66",
+   "latitude": null,
+   "longitude": null,
+   "role": "screenshot"
+  },
+  {
+   "file": "IMG_9697.MOV",
+   "creation_date": "2026:09:09 16:37:52",
+   "plot_id": "N-06-66",
+   "latitude": -3.529,
+   "longitude": -51.1451,
+   "duration": "0:01:31",
+   "transcription_language": "pt",
+   "transcription": "Quando você vai torrar o cacau, você tem que torrar considerando a temperatura do forno, então não pode ser uma temperatura muito alta, em média em 120 graus e em 25 minutos, 30 minutos de torra, ok? Sempre torra o cacau? Você sempre torra? Você faz o que depois? Eu torrei para descascar, para fazer nas calas, para tentar o problema. 200 graus é muito alto? É. Se a gente tiver interesse, vai procurando, tem outra, tem que diminuir a temperatura, senão ele vai ficar muito forte, vai lembrar muito café. Mas pode torrar na tonela também? Pode, tem uma pipoqueira dá para torrar. Mas se ele tem, é que ele gradua até quanto? Você vai ter que graduar, acho que 120, eu por ai no massa, 120. Tem 100? 100 e quanto? Tem 50. Mas deve ter um ponto aí, 100 e um pouquinho, tem que deixar 100.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9698.PNG",
+   "creation_date": null,
+   "plot_id": "N-06-66",
+   "latitude": null,
+   "longitude": null,
+   "role": "screenshot"
+  },
+  {
+   "file": "IMG_9699.MOV",
+   "creation_date": "2026:09:09 16:51:25",
+   "plot_id": "N-06-66",
+   "latitude": -3.5291,
+   "longitude": -51.1451,
+   "duration": "22.95 s",
+   "transcription_language": "pt",
+   "transcription": null,
+   "transcription_status": "silent",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9700.MOV",
+   "creation_date": "2026:09:09 16:52:19",
+   "plot_id": "N-06-66",
+   "latitude": -3.5293,
+   "longitude": -51.1453,
+   "duration": "16.05 s",
+   "transcription_language": "pt",
+   "transcription": "Quando estiver pronto você fala, tomei forte, tchau, tchau.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9701.MOV",
+   "creation_date": "2026:09:09 16:53:33",
+   "plot_id": "N-06-66",
+   "latitude": -3.5293,
+   "longitude": -51.1453,
+   "duration": "0:01:10",
+   "transcription_language": "pt",
+   "transcription": "O que é o seu? Ele opitou o açúcar, geralmente a gente aconselha o açúcar bastante forte, mas você vai ver. Você pode experimentar, você tem a dimensão do que é isso. Que cheiroso isso aqui, né? Isso é forte. Mas acho que eu já acostumei. Agora, essa questão do chá, é tipo um alimento, você vai dar... Ah, chá? Bom, esperto. Bom, chefe de cozinha, né? Sim. Contratado pela... Fazer degustacionar os peitos. Muito bom. Só porque eu tomei coisa mac...",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9702.MOV",
+   "creation_date": "2026:09:09 16:58:31",
+   "plot_id": "N-06-66",
+   "latitude": -3.5288,
+   "longitude": -51.145,
+   "duration": "17.11 s",
+   "transcription_language": "pt",
+   "transcription": "Sim, Alexandre, ele é cooperado e também é da diretoria da filial CoopCao, aqui no inicio de Pakajá. Prazer. Então, ele tá gravando mais tão língua de fação.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9703.MOV",
+   "creation_date": "2026:09:09 16:58:57",
+   "plot_id": "N-06-66",
+   "latitude": -3.5293,
+   "longitude": -51.1453,
+   "duration": "0:05:45",
+   "transcription_language": "pt",
+   "transcription": "A ideia dele é procurar novas origens de cacau com a questão orgânica, água florestal para que ele possa vender para clientes que estão buscando novos produtos diferenciados. Por exemplo, ele faz degustação, agora estamos fazendo isso aqui em praça pública nos Estados Unidos. Então ele faz a demonstração de um chocolate mais artesanal, mais rústico para se acostumarem à bebida de cacau. Então significa que ele tem interesse de estar comprando um pequeno lote de alguns produtores nesse projeto Estados Unidos. Daquilo da nossa cooperativa, o único produtor que ele já trata está do seu Paulo, o Paulo Barbosa. É aquele projeto lá que ele contava, né? É, sim. Então ele tem um programa que hoje, por exemplo, pela análise dele, nós temos que plantar 500 árvores no estado do Parado pelo projeto dele. Aí significa quanto mais amêndoas ele vende, o chocolate lá, mais árvores tem que ser plantado. Só que assim, é uma coisa que ele está em crescimento, então se ele tiver uma demanda maior de cacau, ele precisa ter novas propriedades cada sábado, por isso que nós começamos a ampliar os cadastros. E agora ele está abrindo outra frente de trabalho na China, né? China, Europa. Então a intenção dele é, para os Estados Unidos, levar produtos processados. Tipo, manteiga, polo, barro de chocolate que possam ser derretidos. Então enquanto a Cintral não estiver no próximo ano, mas já tem essas fábricas das famílias que ele está cadastrando. Ana Rosa, Cleide, dona Jussara. E aí para China ele vai também, levar esses produtos, mas principalmente amêndoas. Ele acha que dá para iniciar também um negócio um pouco maior discutindo o volume de cacau na China. E a intenção é buscar essa discussão de um preço justo que seja bom para ambos lados. Então ele está interessado, ainda esse ano talvez levar um pequeno lote, né? Uma quantidade, um lote para China, né? Então seria um outro passo. Então tudo dando certo? A gente pode estar mapeando esses produtores. Aí o produtor que vai ser comprometido, a gente vai atender esse projeto aqui, entendeu? Então eu acho que é isso que ele está fazendo. Então agora ele veio, ele acompanhou mais de perto o trabalho dos produtores, ele foi com alguns produtores. É interessante para ele que as vozes sejam sombreadas. Ele está vendo que você está enriquecendo, você está plantando árvores no meio do cacau, isso é bom para ele. Ele quer saber como é que você fermenta, não pode ser uma coisa feita de qualquer jeito. Ele quer saber como é que você fermenta. E ele vai começar a verificar cada ano como a tua propriedade está mudando. Mais árvores, mais organizada. Então ele resista até um fono desse aí. Porque se ele precisar de uma amenda torrada que vem da casa dele, ele já resistou o fono, entendeu? Então ele resiste, ele resista o fono, ele resiste a geladeira, que é esse que é o chocolate. Então é isso. Não tem muito segredo assim em relação, ele faz um cadastro simples. Então aqui ele já vai gerar um relatório da tua propriedade. Ele já tem um cadastro no sistema. Se ele tiver o interesse de pegar o cacau aí, a gente vai ter que pegar dessas propriedades. Hoje nós temos oito propriedades cadastrados. Ele teria como ele gosta da parte da secagem, que eu acho que da fermentação também que é mais difícil pra gente. É, mas assim, ele... É cada um, né? É, isso por isso que ele leva uma mostra. Então se esse cacau aqui servem pra ele, então eu chego pro Alexandre e falo, Alexandre, aquilo, quanto fermentou esse aqui. Como você fermentou esse aqui, tu vai fazer de novo, entendeu? Então sim, ele entende que nós somos uma organização que tá viva, tá funcionando, né? Ele preza muito por isso. Já é a segunda vez que ele vem aqui, ele vem em 2024 e agora em 2016. Então ele tá muito otimista com esse projeto futuro. Eu te agradeço a tua atenção, mas eu acho que assim, a gente vai focar desses projetos, assim, no próximo ano, a gente não vai deixar mais as coisas muito soltas. Vai chegar aqui e dizer assim, Alexandre, sei lá, mas eu vou entender esse projeto aqui, porque talvez tu perca uma oportunidade. Então quem não veio não veio, já tem aquele contrato lá, não, mas vamos fazer uma negociação aberta com o Guelhery, que é se ele precisar, sei lá, de 12 toneladas, por exemplo. 12 toneladas de amêndoas. Aí vamos ter que pegar essas 12 toneladas de hoje das 8 farmas, das 8 propriedades. Aí não tem aquele negócio de, ah, eu quero, não, é assim, porque a gente tem que ser, se tiver uma demanda para entender o projeto dele, vai entender o projeto dele.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9704.MOV",
+   "creation_date": "2026:09:09 17:07:51",
+   "plot_id": "N-06-66",
+   "latitude": -3.5293,
+   "longitude": -51.1454,
+   "duration": "0:01:26",
+   "transcription_language": "pt",
+   "transcription": "Se nós conseguimos criar um lote de cacau, dizer que esse cacau vem no meio de produtos de barte, grandes árvores, e do que criar uma embalagem com as árvores lá na coisa, e o chinês dizia assim, não importa se isso aqui é amargo, ou se é só doce, eu quero saber que isso aqui vem de árvore, ele acredita que aquilo vai cheio de energia pra ele. É assim, é a energia por cada árvore, porque é grandeza, tu imagina a energia de uma grande árvore naquela. Então vai dizer assim, o chinês tá comendo o lote das gameleiras, cacau da gameleira, cacau da castanheira, e aí se ele faz esse negócio, isso gera um negócio, eu acho que a gente tá aí com um futuro muito interessante nesse mercado diferenciado. O cara não vende lá o café que vem do pássaro aqui, o pássaro come, agora a gente vai explicar pro chinês, agora esse é o cacau da gameleira, e isso é produzir de bar da gameleira, porque as raízes entrelaçam, busca água na fonte, elas são tão altas que buscam energia no sol, então assim, eles acreditam muito nisso. Mas tem lógico que a gameleira, a raiz vai longe, a raiz da gameleira vai longe. Então nós vamos fazer um esforço ainda esse ano, talvez de mandar um pequeno lote, de pelo menos uns 600kg, 600kg.",
+   "transcription_status": "done",
+   "role": "video"
+  },
+  {
+   "file": "IMG_9705.MOV",
+   "creation_date": "2026:09:09 17:10:03",
+   "plot_id": "N-06-66",
+   "latitude": -3.5293,
+   "longitude": -51.1453,
+   "duration": "0:01:28",
+   "transcription_language": "pt",
+   "transcription": "É importante entender que, nas primeiras visitas, não atingiu a fermentação no produtor, mas assim. Então, a gente manda 600 agora, uns pouquinho anos que vem ele quer uma tonelada, duas toneladas, dez toneladas. Então, o primeiro sinal é agora, a gente conseguir 600 quilos. Para ele, chegar um preço que seja um preço justo, produtor. E aí, o ano que vem, seria um ano com pensando em mais cacau, né? Não está a ser censível, é daqui, no caso. Não, é na cooperativa. Ele está levando algumas amostras. A tua amostra, ele está levando, mas tu não vai ter esse cacau, né? Mas ele vai dar um entendimento se isso é uma fermentação que ele gosta. Ele está levando a dona Rosa, do Raimundo, seu Paolo e da Cleide. Santana Fazenda, dona Rosa e Paolo e Alexandre, o rei grande, poderoso na Ávore Grande. Semanoso. Sim. Perforante. É, muito bom, muito bom.",
+   "transcription_status": "done",
+   "role": "video"
+  }
+ ],
+ "roles_note": "Each item carries a 'role' field: photo (HEIC), video (MOV), screenshot (PNG). The 8 PNGs are phone screenshots, not farm photography, and must be kept OUT of the public farm gallery; they are retained here as part of the visit archive."
+}
