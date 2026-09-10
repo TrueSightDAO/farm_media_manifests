@@ -1,0 +1,412 @@
+{
+ "farm_id": "cristo-rei-pacaje-para",
+ "site_name": "Site Cristo Rei",
+ "owner": "Edinaldo (sócio de Copical / CEPOTX affiliate)",
+ "site_code": null,
+ "site_code_status": "not readable in media — plaque on-site; needs governor photo or CEPOTX confirmation",
+ "cooperative": "Copical (CEPOTX)",
+ "property_status": "family-owned, not co-op-managed; property registration pending (per narration)",
+ "municipality": "Pacajá, Pará, Brazil",
+ "plots": [],
+ "source_zips": [
+  "20260909_pacaje_location_2_nursery.zip"
+ ],
+ "generated": "2026-09-10",
+ "processed_by": "MEDIA_ARCHIVE_PIPELINE.md §6b (faster-whisper small, pt)",
+ "counts": {
+  "MOV": 13,
+  "HEIC": 45
+ },
+ "gps_coverage": "58/59 files with GPS",
+ "gps_center": [
+  -3.5573,
+  -51.1035
+ ],
+ "field_notes": {
+  "hectares": "~1 ha (Gary on-walk estimate, IMG_9583); not stated in PT narration",
+  "plant_count": "1,300 (+1,500 +300) plantas (IMG_9572)",
+  "tree_age": "NOT stated in recording",
+  "tree_type": "cacao clonado (clonal) in agroforestry over recovered degraded pasture (IMG_9571); variety not attested",
+  "theme": "family succession (\"jovens do cacau\"); newly installed irrigation"
+ },
+ "items": [
+  {
+   "file": "IMG_9562.MOV",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557,
+   "longitude": -51.1037,
+   "transcription_language": "pt",
+   "transcription": "é importante chamar a atenção que são jovens, jovens que estão assumindo a função no campo, é um momento muito importante, chamamos isso dessa mudança no trabalho do campo, então os jovens começam a fazer um trabalho no campo, substituindo as atividades que antes eram dos pais, chamamos isso de sucessão familiar, jovens do cacau, jovens do cacau, bom."
+  },
+  {
+   "file": "IMG_9563.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.556997,
+   "longitude": -51.103664
+  },
+  {
+   "file": "IMG_9564.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.556997,
+   "longitude": -51.103664
+  },
+  {
+   "file": "IMG_9565.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557003,
+   "longitude": -51.103669
+  },
+  {
+   "file": "IMG_9566.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557003,
+   "longitude": -51.103669
+  },
+  {
+   "file": "IMG_9567.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557003,
+   "longitude": -51.103664
+  },
+  {
+   "file": "IMG_9568.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557008,
+   "longitude": -51.103664
+  },
+  {
+   "file": "IMG_9569.MOV",
+   "creation_date": "2026:09:09",
+   "latitude": -3.5572,
+   "longitude": -51.1034,
+   "transcription_language": "pt",
+   "transcription": "para procurar os bairros de esta placa agora que está sendo descolhido Mova, novo alho, novo alho Sim, sim"
+  },
+  {
+   "file": "IMG_9570.MOV",
+   "creation_date": "2026:09:09",
+   "latitude": -3.5573,
+   "longitude": -51.1033,
+   "transcription_language": "pt",
+   "transcription": "aqui é uma área que era de pastais e a gente vai fazer recuperação e plantar o cacau associado com algumas agroespolastais"
+  },
+  {
+   "file": "IMG_9571.MOV",
+   "creation_date": "2026:09:09",
+   "latitude": -3.5573,
+   "longitude": -51.1033,
+   "transcription_language": "pt",
+   "transcription": "aqui é o site cristo rei, aqui é uma área que a gente tinha aqui o antigo dono antes da gente ele mexia com o pé com a área, a gente chegou e vai fazendo recuperação dessa área que a área que era de pastagem mexia com o gado, a gente retirou no caso gado e a gente vai fazer uma A questão dessa área, que está degradada, a gente vai recuperar com o cacau e com o sistema agrofrostal. Aqui ainda tem um capim, a gente está eliminando aos poucos capim. Para plantar o cacau e recuperar essa área e deixar uma área mais propícia, no caso mais material orgânico. Porque nessa área que tem pouco material orgânico, a gente veio estruturar o cacau clonado, porque é um cacau que chega com um resultado financeiro um pouco mais rápido, porque ele produz primeiro do que o cacau híbrido e mais rápido. mais rápido. Então a gente fez essa recuperação visando também o luco e a recuperação também da área."
+  },
+  {
+   "file": "IMG_9572.MOV",
+   "creation_date": "2026:09:09",
+   "latitude": -3.5573,
+   "longitude": -51.1033,
+   "transcription_language": "pt",
+   "transcription": "1.300 plantas, 1.500 e mais 300 plantas, ok, aqui, bom, 1.300, ok"
+  },
+  {
+   "file": "IMG_9573.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557314,
+   "longitude": -51.103175
+  },
+  {
+   "file": "IMG_9574.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557381,
+   "longitude": -51.10315
+  },
+  {
+   "file": "IMG_9575.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557333,
+   "longitude": -51.10315
+  },
+  {
+   "file": "IMG_9576.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557633,
+   "longitude": -51.103158
+  },
+  {
+   "file": "IMG_9577.MOV",
+   "creation_date": "2026:09:09",
+   "latitude": -3.5576,
+   "longitude": -51.1032,
+   "transcription_language": "pt",
+   "transcription": "Então, o sistema de irrigação está abrindo. Olha isso."
+  },
+  {
+   "file": "IMG_9578.MOV",
+   "creation_date": "2026:09:09",
+   "latitude": -3.5576,
+   "longitude": -51.1033,
+   "transcription_language": "pt",
+   "transcription": "Olha o rosto de cantos aqui, suco. E o sistema dessa farm, a irrigação é bastante diferente de pavos. Não parece que seja mais lento do que o que vimos quando eu estava em uma farm de pavos o outro dia."
+  },
+  {
+   "file": "IMG_9579.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557775,
+   "longitude": -51.103533
+  },
+  {
+   "file": "IMG_9580.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557806,
+   "longitude": -51.103572
+  },
+  {
+   "file": "IMG_9581.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557842,
+   "longitude": -51.103642
+  },
+  {
+   "file": "IMG_9582.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557933,
+   "longitude": -51.103775
+  },
+  {
+   "file": "IMG_9583.MOV",
+   "creation_date": "2026:09:09",
+   "latitude": -3.5579,
+   "longitude": -51.1039,
+   "transcription_language": "pt",
+   "transcription": "Along the final boundaries of the new plot, it really marked it out like this. It's quite a long walk. I think it's probably around 1 hectare, which is around 1000 trees. There's a different variety of trees at all the plot. So that's how far I've walked."
+  },
+  {
+   "file": "IMG_9584.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557878,
+   "longitude": -51.104303
+  },
+  {
+   "file": "IMG_9585.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557819,
+   "longitude": -51.104167
+  },
+  {
+   "file": "IMG_9586.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557758,
+   "longitude": -51.104106
+  },
+  {
+   "file": "IMG_9587.MOV",
+   "creation_date": "2026:09:09",
+   "latitude": -3.5575,
+   "longitude": -51.1043,
+   "transcription_language": "pt",
+   "transcription": "Esse é o outro lado. Eu acho que vamos andar para o marco naquela parte. Um oca-cau-chi. Aqui. Algumas insais. Usam para ser um plato de passeiro. Eles estão... para se transformar em um sistema agroforrestre. Ok, finalmente! Estamos no final."
+  },
+  {
+   "file": "IMG_9588.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557064,
+   "longitude": -51.104258
+  },
+  {
+   "file": "IMG_9589.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557103,
+   "longitude": -51.104233
+  },
+  {
+   "file": "IMG_9590.MOV",
+   "creation_date": "2026:09:09",
+   "latitude": -3.5572,
+   "longitude": -51.104,
+   "transcription_language": "pt",
+   "transcription": "O plano foi descoberto porque o álcool morreu de dehydração."
+  },
+  {
+   "file": "IMG_9591.MOV",
+   "creation_date": "2026:09:09",
+   "latitude": -3.5572,
+   "longitude": -51.104,
+   "transcription_language": "pt",
+   "transcription": "Ok."
+  },
+  {
+   "file": "IMG_9592.MOV",
+   "creation_date": "2026:09:09",
+   "latitude": -3.5572,
+   "longitude": -51.104,
+   "transcription_language": "pt",
+   "transcription": "Tudo bem, eu estou pronto com todas as linhas. Ah, vim através da outra chave. Então, sim, acho que estou pronto. Voltei para a densidade agora. Basicamente, eu consegui trair o todo o parâmetro da lenda que está sendo restourada."
+  },
+  {
+   "file": "IMG_9593.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557189,
+   "longitude": -51.103875
+  },
+  {
+   "file": "IMG_9594.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557186,
+   "longitude": -51.103828
+  },
+  {
+   "file": "IMG_9595.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557167,
+   "longitude": -51.103783
+  },
+  {
+   "file": "IMG_9596.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557183,
+   "longitude": -51.103753
+  },
+  {
+   "file": "IMG_9597.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557189,
+   "longitude": -51.103717
+  },
+  {
+   "file": "IMG_9598.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557206,
+   "longitude": -51.103547
+  },
+  {
+   "file": "IMG_9599.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557203,
+   "longitude": -51.103528
+  },
+  {
+   "file": "IMG_9600.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557219,
+   "longitude": -51.103517
+  },
+  {
+   "file": "IMG_9601.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557228,
+   "longitude": -51.103478
+  },
+  {
+   "file": "IMG_9602.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557253,
+   "longitude": -51.103436
+  },
+  {
+   "file": "IMG_9603.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557278,
+   "longitude": -51.1034
+  },
+  {
+   "file": "IMG_9604.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.5573,
+   "longitude": -51.103328
+  },
+  {
+   "file": "IMG_9605.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.5573,
+   "longitude": -51.103294
+  },
+  {
+   "file": "IMG_9606.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557306,
+   "longitude": -51.103222
+  },
+  {
+   "file": "IMG_9607.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557308,
+   "longitude": -51.103183
+  },
+  {
+   "file": "IMG_9608.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557317,
+   "longitude": -51.103144
+  },
+  {
+   "file": "IMG_9609.MOV",
+   "creation_date": "2026:09:09",
+   "transcription_language": "pt",
+   "transcription": "Ah, você? Sim, o Edinaldo aqui, ele é sócio da Copical que é filiado a sepóx. Então, futuramente a gente vai fazer o cadastro da propriedade dele também. Nessa propriedade é da família, mas não é gerenciado pela operativa. Então, mais pode se envolver no projeto de arborista, argo florestal. Sim? Bom."
+  },
+  {
+   "file": "IMG_9610.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557008,
+   "longitude": -51.102775
+  },
+  {
+   "file": "IMG_9611.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557075,
+   "longitude": -51.102767
+  },
+  {
+   "file": "IMG_9612.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557067,
+   "longitude": -51.102767
+  },
+  {
+   "file": "IMG_9613.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557014,
+   "longitude": -51.102775
+  },
+  {
+   "file": "IMG_9614.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557017,
+   "longitude": -51.102775
+  },
+  {
+   "file": "IMG_9615.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557014,
+   "longitude": -51.102756
+  },
+  {
+   "file": "IMG_9616.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557014,
+   "longitude": -51.102756
+  },
+  {
+   "file": "IMG_9617.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557014,
+   "longitude": -51.102756
+  },
+  {
+   "file": "IMG_9618.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557014,
+   "longitude": -51.102756
+  },
+  {
+   "file": "IMG_9619.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.557014,
+   "longitude": -51.102756
+  },
+  {
+   "file": "IMG_9620.HEIC",
+   "creation_date": "2026:09:09",
+   "latitude": -3.556175,
+   "longitude": -51.103206
+  }
+ ]
+}
