@@ -59,6 +59,11 @@
    "farm_id": "cacau-na-veia-pacaje",
    "manifest": "cacau-na-veia-pacaje.json",
    "updated": "2026-09-10"
+  },
+  {
+   "farm_id": "sitio-torres-pacaja-para",
+   "manifest": "sitio-torres-pacaja-para.json",
+   "updated": "2026-09-10"
   }
  ],
  "note": "Index of farm media manifests (Media Archives Pipeline / MAP — farm-media namespace). Farm IDs keyed per MEDIA_ARCHIVE_PIPELINE.md."
