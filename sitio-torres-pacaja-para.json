@@ -19,9 +19,9 @@
   }
  ],
  "source_zips": [
-  "20260909_pacaje_location_2_nursery.zip"
+  "20260909_pacaje_location_3_farm_alessandro_director_coopcao.zip"
  ],
- "source_zip_note": "Work dir is /media/pacaje_work/loc3/ but the source zip is named ..._location_2_nursery.zip (IMG_95xx..96xx range). NAMING MISMATCH flagged for governor confirmation; zip label says 'location 2', dir label says 'loc3'.",
+ "source_zip_note": "RESOLVED 2026-09-10: source zip = 20260909_pacaje_location_3_farm_alessandro_director_coopcao.zip (2.15 GB; IMG_9622..IMG_9705). Its 81 member files (38 HEIC / 35 MOV / 8 PNG) are an EXACT set match to /media/pacaje_work/loc3/ (comm diff empty both ways); zip name identifies the site owner/producer (Alexandre, CoopCao director). The earlier 'location_2_nursery' label was a mis-attribution: 20260909_pacaje_location_2_nursery.zip holds a DIFFERENT set (IMG_9562..IMG_9620, 59 files) and is NOT part of this farm's media.",
  "dedupe_note": "No duplicates: 0 intra-set duplicate HEIC hashes; 0 identical hashes vs loc1 (cacau-na-veia-pacaje); 0 filename collisions with loc1.",
  "generated": "2026-09-10",
  "processed_by": "MEDIA_ARCHIVE_PIPELINE.md 6b (faster-whisper small, pt)",
