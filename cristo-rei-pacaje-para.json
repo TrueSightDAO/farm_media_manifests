@@ -10,9 +10,10 @@
   "generated": "2026-09-10",
   "processed_by": "MEDIA_ARCHIVE_PIPELINE.md",
   "counts": {
-    "MOV": 13
+    "MOV": 13,
+    "HEIC": 46
   },
-  "gps_coverage": "12/13 files with GPS",
+  "gps_coverage": "58/59 files with GPS",
   "items": [
     {
       "file": "IMG_9562.MOV",
@@ -260,6 +261,380 @@
       "yt_id": "u_92mWA-dUE",
       "uploaded_at": null,
       "error": null
+    },
+    {
+      "file": "IMG_9563.HEIC",
+      "basename": "IMG_9563.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55699722222222,
+      "longitude": -51.1036638888889
+    },
+    {
+      "file": "IMG_9564.HEIC",
+      "basename": "IMG_9564.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55699722222222,
+      "longitude": -51.1036638888889
+    },
+    {
+      "file": "IMG_9565.HEIC",
+      "basename": "IMG_9565.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55700277777778,
+      "longitude": -51.1036694444444
+    },
+    {
+      "file": "IMG_9566.HEIC",
+      "basename": "IMG_9566.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55700277777778,
+      "longitude": -51.1036694444444
+    },
+    {
+      "file": "IMG_9567.HEIC",
+      "basename": "IMG_9567.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55700277777778,
+      "longitude": -51.1036638888889
+    },
+    {
+      "file": "IMG_9568.HEIC",
+      "basename": "IMG_9568.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55700833333333,
+      "longitude": -51.1036638888889
+    },
+    {
+      "file": "IMG_9573.HEIC",
+      "basename": "IMG_9573.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55731388888889,
+      "longitude": -51.103175
+    },
+    {
+      "file": "IMG_9574.HEIC",
+      "basename": "IMG_9574.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55738055555556,
+      "longitude": -51.10315
+    },
+    {
+      "file": "IMG_9575.HEIC",
+      "basename": "IMG_9575.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55733333333333,
+      "longitude": -51.10315
+    },
+    {
+      "file": "IMG_9576.HEIC",
+      "basename": "IMG_9576.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55763333333333,
+      "longitude": -51.1031583333333
+    },
+    {
+      "file": "IMG_9579.HEIC",
+      "basename": "IMG_9579.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.557775,
+      "longitude": -51.1035333333333
+    },
+    {
+      "file": "IMG_9580.HEIC",
+      "basename": "IMG_9580.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55780555555556,
+      "longitude": -51.1035722222222
+    },
+    {
+      "file": "IMG_9581.HEIC",
+      "basename": "IMG_9581.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55784166666667,
+      "longitude": -51.1036416666667
+    },
+    {
+      "file": "IMG_9582.HEIC",
+      "basename": "IMG_9582.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55793333333333,
+      "longitude": -51.103775
+    },
+    {
+      "file": "IMG_9584.HEIC",
+      "basename": "IMG_9584.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55787777777778,
+      "longitude": -51.1043027777778
+    },
+    {
+      "file": "IMG_9585.HEIC",
+      "basename": "IMG_9585.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55781944444444,
+      "longitude": -51.1041666666667
+    },
+    {
+      "file": "IMG_9586.HEIC",
+      "basename": "IMG_9586.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55775833333333,
+      "longitude": -51.1041055555556
+    },
+    {
+      "file": "IMG_9588.HEIC",
+      "basename": "IMG_9588.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55706388888889,
+      "longitude": -51.1042583333333
+    },
+    {
+      "file": "IMG_9589.HEIC",
+      "basename": "IMG_9589.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55710277777778,
+      "longitude": -51.1042333333333
+    },
+    {
+      "file": "IMG_9593.HEIC",
+      "basename": "IMG_9593.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55718888888889,
+      "longitude": -51.103875
+    },
+    {
+      "file": "IMG_9594.HEIC",
+      "basename": "IMG_9594.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55718611111111,
+      "longitude": -51.1038277777778
+    },
+    {
+      "file": "IMG_9595.HEIC",
+      "basename": "IMG_9595.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55716666666667,
+      "longitude": -51.1037833333333
+    },
+    {
+      "file": "IMG_9596.HEIC",
+      "basename": "IMG_9596.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55718333333333,
+      "longitude": -51.1037527777778
+    },
+    {
+      "file": "IMG_9597.HEIC",
+      "basename": "IMG_9597.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55718888888889,
+      "longitude": -51.1037166666667
+    },
+    {
+      "file": "IMG_9598.HEIC",
+      "basename": "IMG_9598.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55720555555556,
+      "longitude": -51.1035472222222
+    },
+    {
+      "file": "IMG_9599.HEIC",
+      "basename": "IMG_9599.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55720277777778,
+      "longitude": -51.1035277777778
+    },
+    {
+      "file": "IMG_9600.HEIC",
+      "basename": "IMG_9600.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55721944444444,
+      "longitude": -51.1035166666667
+    },
+    {
+      "file": "IMG_9601.HEIC",
+      "basename": "IMG_9601.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55722777777778,
+      "longitude": -51.1034777777778
+    },
+    {
+      "file": "IMG_9602.HEIC",
+      "basename": "IMG_9602.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55725277777778,
+      "longitude": -51.1034361111111
+    },
+    {
+      "file": "IMG_9603.HEIC",
+      "basename": "IMG_9603.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55727777777778,
+      "longitude": -51.1034
+    },
+    {
+      "file": "IMG_9604.HEIC",
+      "basename": "IMG_9604.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.5573,
+      "longitude": -51.1033277777778
+    },
+    {
+      "file": "IMG_9605.HEIC",
+      "basename": "IMG_9605.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.5573,
+      "longitude": -51.1032944444444
+    },
+    {
+      "file": "IMG_9606.HEIC",
+      "basename": "IMG_9606.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55730555555556,
+      "longitude": -51.1032222222222
+    },
+    {
+      "file": "IMG_9607.HEIC",
+      "basename": "IMG_9607.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55730833333333,
+      "longitude": -51.1031833333333
+    },
+    {
+      "file": "IMG_9608.HEIC",
+      "basename": "IMG_9608.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55731666666667,
+      "longitude": -51.1031444444444
+    },
+    {
+      "file": "IMG_9610.HEIC",
+      "basename": "IMG_9610.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55700833333333,
+      "longitude": -51.102775
+    },
+    {
+      "file": "IMG_9611.HEIC",
+      "basename": "IMG_9611.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.557075,
+      "longitude": -51.1027666666667
+    },
+    {
+      "file": "IMG_9612.HEIC",
+      "basename": "IMG_9612.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55706666666667,
+      "longitude": -51.1027666666667
+    },
+    {
+      "file": "IMG_9613.HEIC",
+      "basename": "IMG_9613.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55701388888889,
+      "longitude": -51.102775
+    },
+    {
+      "file": "IMG_9614.HEIC",
+      "basename": "IMG_9614.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55701666666667,
+      "longitude": -51.102775
+    },
+    {
+      "file": "IMG_9615.HEIC",
+      "basename": "IMG_9615.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55701388888889,
+      "longitude": -51.1027555555556
+    },
+    {
+      "file": "IMG_9616.HEIC",
+      "basename": "IMG_9616.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55701388888889,
+      "longitude": -51.1027555555556
+    },
+    {
+      "file": "IMG_9617.HEIC",
+      "basename": "IMG_9617.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55701388888889,
+      "longitude": -51.1027555555556
+    },
+    {
+      "file": "IMG_9618.HEIC",
+      "basename": "IMG_9618.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55701388888889,
+      "longitude": -51.1027555555556
+    },
+    {
+      "file": "IMG_9619.HEIC",
+      "basename": "IMG_9619.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.55701388888889,
+      "longitude": -51.1027555555556
+    },
+    {
+      "file": "IMG_9620.HEIC",
+      "basename": "IMG_9620.HEIC",
+      "ext": "HEIC",
+      "creation_date": "2026:09:09",
+      "latitude": -3.556175,
+      "longitude": -51.1032055555556
     }
-  ]
+  ],
+  "site_name": "Sítio Cristo Rei",
+  "owner": "Edinaldo",
+  "gps_center": {
+    "lat": -3.557262,
+    "lon": -51.103462
+  }
 }
