@@ -3,7 +3,7 @@
  "site_name": "Sitio Torres (Pacaja) - recorded as 'Sitio 2' (propriedade/plot)",
  "owner": "Alexandre (CoopCao director-coordinator)",
  "site_code": "N-06-66",
- "site_code_status": "ASSUMED - read from phone-translator screenshot loc3/IMG_9694.PNG ('O codigo dele e N0666'); OUTSIDE the observed COOPCAO roster range (N-06-02..) in CEPOTX_SITE_CODE_REGISTRY.md -> needs CEPOTX registry confirmation. Plot N-06-66 already registered in sunmint/plots/index.geojson (farm_id sitio-torres-pacaja-para).",
+ "site_code_status": "VERIFIED — governor-confirmed 2026-09-10 (thread 24442)",
  "cooperative": "CoopCao (CEPOTX family)",
  "property_status": "family holding; CoopCao director-coordinator property; Wi-Fi SSID SITIO TORRES on site",
  "municipality": "Pacaja, Para, Brazil",
@@ -844,5 +844,7 @@
    "role": "video"
   }
  ],
- "roles_note": "Each item carries a 'role' field: photo (HEIC), video (MOV), screenshot (PNG). The 8 PNGs are phone screenshots, not farm photography, and must be kept OUT of the public farm gallery; they are retained here as part of the visit archive."
+ "roles_note": "Each item carries a 'role' field: photo (HEIC), video (MOV), screenshot (PNG). The 8 PNGs are phone screenshots, not farm photography, and must be kept OUT of the public farm gallery; they are retained here as part of the visit archive.",
+ "site_code_verified_at": "2026-09-10",
+ "site_code_verified_by": "Gary Teh (governor)"
 }
