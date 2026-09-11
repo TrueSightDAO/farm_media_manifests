@@ -1,0 +1,130 @@
+{
+ "farm_id": "jedielcio",
+ "entity_type": "farm",
+ "site_name": "Jedielcio farm (CEPOTX network, Pará)",
+ "region": "Pará, Brazil",
+ "owner": "Jedielcio family",
+ "cooperative": "CEPOTX (Cooperação Central ... Transamazônica e Xingu); Jedielcio Oliveira — Técnico, Diretoria",
+ "source_dir": "/media/media_archive_inbox/farm-media/jedielcio/ (on autopilot box)",
+ "generated": "2026-09-11T10:08:29Z",
+ "processed_by": "MEDIA_ARCHIVE_PIPELINE.md 6b (uploaded + transcripts); manifest back-filled 2026-09-11",
+ "status": "uploaded (4 videos on YouTube; transcripts done) — manifest retro-filed 2026-09-11",
+ "counts": {
+  "mp4": 4,
+  "videos_uploaded": 4
+ },
+ "gps_coverage": "0/4 files with GPS (none in EXIF)",
+ "cross_index": [
+  "crf-anapu-para"
+ ],
+ "items": [
+  {
+   "file": "IMG_7654.mp4",
+   "basename": "IMG_7654.mp4",
+   "ext": "mp4",
+   "role": "video",
+   "sha256": "fe61e77b061b1f199384ce84eaa56bc43afe8ce4358906e46039e62d471013de",
+   "duration_s": 15.383,
+   "creation_date": null,
+   "latitude": null,
+   "longitude": null,
+   "yt_id": "jmaZ92yXWM4",
+   "title": "Harvesting Cacao in Para, Brazil - Farmer with CCN-51 and Traditional Pods",
+   "description": "A farmer in Para holds a ripe crimson traditional cacao pod against smooth green CCN-51 Ponta Verde pods - two varieties on one farm, seconds apart. Cacao farm visit, CEPOTX, Para, Brazil.",
+   "transcript_en": "Here is a lot of different. Different. Wait for that fruit to be eaten. No, no, no, no. 651.1. Ok.",
+   "vtt": "IMG_7654.mp4.en.vtt",
+   "tags": [
+    "cacao",
+    "agroverse",
+    "para",
+    "brazil",
+    "cepotox"
+   ],
+   "privacy": "public",
+   "transcription_status": "done",
+   "uploaded_at": null,
+   "error": null
+  },
+  {
+   "file": "IMG_7833.mp4",
+   "basename": "IMG_7833.mp4",
+   "ext": "mp4",
+   "role": "video",
+   "sha256": "4a2f7b4ff35fe303951b9ce99b9fe8cade0f2aa0d3f6db61190e50be9aca212c",
+   "duration_s": 12.159,
+   "creation_date": null,
+   "latitude": null,
+   "longitude": null,
+   "yt_id": "HLlM8mcoqaU",
+   "title": "Post-Harvest Bean Sorting in Para, Brazil",
+   "description": "Sorting fermented cacao beans on drying racks at a CEPOTX network farm in Para. Cacao farm visit, CEPOTX, Para, Brazil.",
+   "transcript_en": "I'm going to show you",
+   "vtt": "IMG_7833.mp4.en.vtt",
+   "tags": [
+    "cacao",
+    "agroverse",
+    "para",
+    "brazil",
+    "cepotox"
+   ],
+   "privacy": "public",
+   "transcription_status": "done",
+   "uploaded_at": null,
+   "error": null
+  },
+  {
+   "file": "IMG_7835.mp4",
+   "basename": "IMG_7835.mp4",
+   "ext": "mp4",
+   "role": "video",
+   "sha256": "a70ea0eb02cd8729ed6731f2ef9360c6950ff73afbe2465ff3f8f9aea10e7cde",
+   "duration_s": 29.503,
+   "creation_date": null,
+   "latitude": null,
+   "longitude": null,
+   "yt_id": "SHmMBaA22bM",
+   "title": "Opening Fresh Cacao Pods in Para, Brazil",
+   "description": "Close-up of hands splitting open a fresh cacao pod, revealing white pulp and beans. Cacao farm visit, CEPOTX, Para, Brazil.",
+   "transcript_en": "It's a bit... It's a bit... It's a bit... Yes!",
+   "vtt": "IMG_7835.mp4.en.vtt",
+   "tags": [
+    "cacao",
+    "agroverse",
+    "para",
+    "brazil",
+    "cepotox"
+   ],
+   "privacy": "public",
+   "transcription_status": "done",
+   "uploaded_at": null,
+   "error": null
+  },
+  {
+   "file": "IMG_7848.mp4",
+   "basename": "IMG_7848.mp4",
+   "ext": "mp4",
+   "role": "video",
+   "sha256": "aed89394947b85a65c5bfc9c1ab537c91397a08e0c96c54a721e3bbf9282be5a",
+   "duration_s": 71.172,
+   "creation_date": null,
+   "latitude": null,
+   "longitude": null,
+   "yt_id": "VmP8btqNZmQ",
+   "title": "Cacao Pod Anatomy - From Whole Fruit to Beans",
+   "description": "A lineup of freshly cracked cacao pods showing the progression from whole fruit to exposed beans. Cacao farm visit, CEPOTX, Para, Brazil.",
+   "transcript_en": "Maybe it's the same thing Let's take it Let's not do this, because there is not much experience You can get it Let's verify No, no, no, this one Oh, hybrid This one If you have Inside No, it's another We need to study better, but these are different varieties It's important to know that these are different varieties This is a 61 and this is a hybrid These are other varieties that need to be identified Differentiate Okay, okay Thank you",
+   "vtt": "IMG_7848.mp4.en.vtt",
+   "tags": [
+    "cacao",
+    "agroverse",
+    "para",
+    "brazil",
+    "cepotox"
+   ],
+   "privacy": "public",
+   "transcription_status": "done",
+   "uploaded_at": null,
+   "error": null
+  }
+ ]
+}
