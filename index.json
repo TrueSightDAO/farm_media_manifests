@@ -64,7 +64,19 @@
    "farm_id": "sitio-torres-pacaja-para",
    "manifest": "sitio-torres-pacaja-para.json",
    "updated": "2026-09-10"
+  },
+  {
+   "farm_id": "crf-anapu-para",
+   "manifest": "crf-anapu-para.json",
+   "updated": "2026-09-11",
+   "entity_type": "program"
+  },
+  {
+   "farm_id": "jedielcio",
+   "manifest": "jedielcio.json",
+   "updated": "2026-09-11",
+   "entity_type": "farm"
   }
  ],
- "note": "Index of farm media manifests (Media Archives Pipeline / MAP — farm-media namespace). Farm IDs keyed per MEDIA_ARCHIVE_PIPELINE.md."
+ "note": "Index of media manifests (Media Archives Pipeline / MAP). Keyed by entity id per MEDIA_ARCHIVE_PIPELINE.md. `entity_type` (farm|program) added 2026-09-11 (governor decision, thread 25181) — first program entity: crf-anapu-para."
 }
