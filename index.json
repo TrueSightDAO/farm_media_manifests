@@ -1,82 +1,83 @@
 {
- "index": [
-  {
-   "farm_id": "rancho-maranta-para",
-   "manifest": "rancho-maranta-para.json",
-   "updated": "2026-08-31"
-  },
-  {
-   "farm_id": "paulo-la-do-sitio-para",
-   "manifest": "paulo-la-do-sitio-para.json",
-   "updated": "2026-09-09"
-  },
-  {
-   "farm_id": "santa-anna-fazenda-para",
-   "manifest": "santa-anna-fazenda-para.json",
-   "updated": "2026-08-31"
-  },
-  {
-   "farm_id": "cleide",
-   "manifest": "cleide.json",
-   "updated": "2026-09-01"
-  },
-  {
-   "farm_id": "oscar-bahia",
-   "manifest": "oscar-bahia.json",
-   "updated": "2026-09-07"
-  },
-  {
-   "farm_id": "raimundo-geniza-para",
-   "manifest": "raimundo-geniza-para.json",
-   "updated": "2026-09-04"
-  },
-  {
-   "farm_id": "fazenda-dona-rosa",
-   "manifest": "fazenda-dona-rosa.json",
-   "updated": "2026-09-05"
-  },
-  {
-   "farm_id": "fazenda-santa-ana-bahia",
-   "manifest": "fazenda-santa-ana-bahia.json",
-   "updated": "2026-09-06"
-  },
-  {
-   "farm_id": "fazenda-sao-jorge-bahia",
-   "manifest": "fazenda-sao-jorge-bahia.json",
-   "updated": "2026-09-06"
-  },
-  {
-   "farm_id": "fazenda-clara-bahia",
-   "manifest": "fazenda-clara-bahia.json",
-   "updated": "2026-09-06"
-  },
-  {
-   "farm_id": "cristo-rei-pacaje-para",
-   "manifest": "cristo-rei-pacaje-para.json",
-   "updated": "2026-09-10"
-  },
-  {
-   "farm_id": "cacau-na-veia-pacaje",
-   "manifest": "cacau-na-veia-pacaje.json",
-   "updated": "2026-09-10"
-  },
-  {
-   "farm_id": "sitio-torres-pacaja-para",
-   "manifest": "sitio-torres-pacaja-para.json",
-   "updated": "2026-09-10"
-  },
-  {
-   "farm_id": "crf-anapu-para",
-   "manifest": "crf-anapu-para.json",
-   "updated": "2026-09-11",
-   "entity_type": "program"
-  },
-  {
-   "farm_id": "jedielcio",
-   "manifest": "jedielcio.json",
-   "updated": "2026-09-11",
-   "entity_type": "farm"
-  }
- ],
- "note": "Index of media manifests (Media Archives Pipeline / MAP). Keyed by entity id per MEDIA_ARCHIVE_PIPELINE.md. `entity_type` (farm|program) added 2026-09-11 (governor decision, thread 25181) — first program entity: crf-anapu-para."
+  "index": [
+    {
+      "farm_id": "rancho-maranta-para",
+      "manifest": "rancho-maranta-para.json",
+      "updated": "2026-08-31"
+    },
+    {
+      "farm_id": "paulo-la-do-sitio-para",
+      "manifest": "paulo-la-do-sitio-para.json",
+      "updated": "2026-09-09"
+    },
+    {
+      "farm_id": "santa-anna-fazenda-para",
+      "manifest": "santa-anna-fazenda-para.json",
+      "updated": "2026-08-31"
+    },
+    {
+      "farm_id": "cleide",
+      "manifest": "cleide.json",
+      "updated": "2026-09-01"
+    },
+    {
+      "farm_id": "oscar-bahia",
+      "manifest": "oscar-bahia.json",
+      "updated": "2026-09-07"
+    },
+    {
+      "farm_id": "raimundo-geniza-para",
+      "manifest": "raimundo-geniza-para.json",
+      "updated": "2026-09-04"
+    },
+    {
+      "farm_id": "fazenda-dona-rosa",
+      "manifest": "fazenda-dona-rosa.json",
+      "updated": "2026-09-05"
+    },
+    {
+      "farm_id": "fazenda-santa-ana-bahia",
+      "manifest": "fazenda-santa-ana-bahia.json",
+      "updated": "2026-09-06"
+    },
+    {
+      "farm_id": "fazenda-sao-jorge-bahia",
+      "manifest": "fazenda-sao-jorge-bahia.json",
+      "updated": "2026-09-06"
+    },
+    {
+      "farm_id": "fazenda-clara-bahia",
+      "manifest": "fazenda-clara-bahia.json",
+      "updated": "2026-09-06"
+    },
+    {
+      "farm_id": "cristo-rei-pacaje-para",
+      "manifest": "cristo-rei-pacaje-para.json",
+      "updated": "2026-09-10"
+    },
+    {
+      "farm_id": "cacau-na-veia-pacaje",
+      "manifest": "cacau-na-veia-pacaje.json",
+      "updated": "2026-09-11",
+      "yt_videos": 33
+    },
+    {
+      "farm_id": "sitio-torres-pacaja-para",
+      "manifest": "sitio-torres-pacaja-para.json",
+      "updated": "2026-09-10"
+    },
+    {
+      "farm_id": "crf-anapu-para",
+      "manifest": "crf-anapu-para.json",
+      "updated": "2026-09-11",
+      "entity_type": "program"
+    },
+    {
+      "farm_id": "jedielcio",
+      "manifest": "jedielcio.json",
+      "updated": "2026-09-11",
+      "entity_type": "farm"
+    }
+  ],
+  "note": "Index of media manifests (Media Archives Pipeline / MAP). Keyed by entity id per MEDIA_ARCHIVE_PIPELINE.md. `entity_type` (farm|program) added 2026-09-11 (governor decision, thread 25181) — first program entity: crf-anapu-para."
 }
