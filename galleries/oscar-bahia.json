@@ -1,0 +1,407 @@
+{
+ "schemaVersion": 1,
+ "hero": {
+  "type": "image",
+  "src": "../../assets/images/farms/oscar-bahia-IMG_2162.jpg",
+  "alt": "IMG_2162"
+ },
+ "gallery": [
+  {
+   "type": "image",
+   "src": "../../assets/images/farms/oscar-bahia-IMG_2162.jpg",
+   "alt": "IMG_2162"
+  },
+  {
+   "type": "image",
+   "src": "../../assets/images/farms/oscar-bahia-IMG_2163.jpg",
+   "alt": "IMG_2163"
+  },
+  {
+   "type": "image",
+   "src": "../../assets/images/farms/oscar-bahia-IMG_2191.jpg",
+   "alt": "IMG_2191"
+  },
+  {
+   "type": "image",
+   "src": "../../assets/images/farms/oscar-bahia-IMG_2192.jpg",
+   "alt": "IMG_2192"
+  },
+  {
+   "type": "image",
+   "src": "../../assets/images/farms/oscar-bahia-IMG_2193.jpg",
+   "alt": "IMG_2193"
+  },
+  {
+   "type": "youtube",
+   "videoId": "8WhZ_ZkriW4",
+   "title": "IMG_2143 (28 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "ooRnMhBFAK4",
+   "title": "IMG_2148 (2 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "_AF4mymFCYQ",
+   "title": "IMG_2149 (5 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "cnkAeLx2mIc",
+   "title": "IMG_2150 (8 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "-YjMiaeRV1k",
+   "title": "IMG_2152 (10 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "6KzcB53KaI0",
+   "title": "IMG_2153 (41 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "dgS6I6PqRQg",
+   "title": "IMG_2154 (12 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "qLow7oEC-tA",
+   "title": "IMG_2155 (20 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "kduhcWBjG5U",
+   "title": "IMG_2156 (10 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "Lah3N3VZSZ0",
+   "title": "IMG_2157 (21 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "STYOJ6eKKYg",
+   "title": "IMG_2158 (0 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "l8YuAgsK0Uo",
+   "title": "IMG_2159 (2 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "Xe8bgsSl_GM",
+   "title": "IMG_2160 (8 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "6PWqhmUCbrE",
+   "title": "IMG_2161 (19 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "fA27w8Li0ps",
+   "title": "IMG_2165 (22 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "qtppfrHKKXY",
+   "title": "IMG_2166 (32 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "MWuzuuPkT9M",
+   "title": "IMG_2167 (13 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "aZfVCCsAcg0",
+   "title": "IMG_2168 (32 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "R13eB3aWbVI",
+   "title": "IMG_2169 (3 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "m3Pz8rc5cuw",
+   "title": "IMG_2170 (25 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "j_pEogJ4jxg",
+   "title": "IMG_2171 (14 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "s_t2Wkve2xA",
+   "title": "IMG_2172 (44 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "JySZSFaOWs8",
+   "title": "IMG_2174 (8 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "Ldx5oaC7O1M",
+   "title": "IMG_2175 (8 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "cYlUZkqbhgA",
+   "title": "IMG_2176 (3 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "3DjHgMwX2aE",
+   "title": "IMG_2179 (16 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "eCz1J8WX5zc",
+   "title": "IMG_2180 (18 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "Bs8dz4p5_Xw",
+   "title": "IMG_2181 (5 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "8pUd--xYyUM",
+   "title": "IMG_2182 (11 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "KU0qAEV8n9k",
+   "title": "IMG_2183 (9 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "ASj8qdbuJ6U",
+   "title": "IMG_2184 (42 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "LofQhWOxZl0",
+   "title": "IMG_2185 (8 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "YjWOuvoKbco",
+   "title": "IMG_2186 (16 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "2qR9tBbwCz0",
+   "title": "IMG_2187 (4 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "Z-8oSNJs__E",
+   "title": "IMG_2188 (18 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "rFlD75HVcYM",
+   "title": "IMG_2189 (8 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "k3zo2gSHDSw",
+   "title": "IMG_2190 (5 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "b4YpoRF-jyY",
+   "title": "IMG_2194 (8 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "yuWJRhFyMoc",
+   "title": "IMG_2195 (6 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "f5skauseauU",
+   "title": "IMG_2199 (7 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "UgZ5XYchSnE",
+   "title": "IMG_2200 (22 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "z_rYv1z5lNk",
+   "title": "IMG_2201 (33 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "ECOdWqO5PtQ",
+   "title": "IMG_2202 (17 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "q4XPoMU8a68",
+   "title": "IMG_2203 (26 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "yajSv6-MG3c",
+   "title": "IMG_2205 (11 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "UG8EwXthv9c",
+   "title": "IMG_2206 (71 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "ZM5mpTHnD4o",
+   "title": "IMG_2207 (42 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "qaHc1-Gt0B0",
+   "title": "IMG_2208 (58 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "-3Il39pLeHs",
+   "title": "IMG_2209 (13 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "JiFmsm1Ojgw",
+   "title": "IMG_2210 (14 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "Sl2DTDEc7PI",
+   "title": "IMG_2213 (17 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "D79mkNTNkXc",
+   "title": "IMG_2214 (34 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "bNPpH9AbFTc",
+   "title": "IMG_2215 (19 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "xoSfMaX2GDA",
+   "title": "IMG_2216 (57 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "rChRlUHtFIc",
+   "title": "IMG_2217 (10 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "BPvBzY86mQM",
+   "title": "IMG_2218 (46 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "puwn0RaGsQI",
+   "title": "IMG_2219 (22 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "43wXy_URx98",
+   "title": "IMG_2220 (3 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "xE04E7VxOKA",
+   "title": "IMG_2222 (17 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "xCaWcH_c2cY",
+   "title": "IMG_2223 (8 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "ZbIXCjqc4jQ",
+   "title": "IMG_2224 (23 s)",
+   "caption": "Site walk 20 September 2025"
+  },
+  {
+   "type": "youtube",
+   "videoId": "mb6fu7-Asbc",
+   "title": "IMG_2225 (25 s)",
+   "caption": "Site walk 20 September 2025"
+  }
+ ]
+}
