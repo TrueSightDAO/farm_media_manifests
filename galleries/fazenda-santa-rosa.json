@@ -1,221 +1,200 @@
 {
  "schemaVersion": 1,
+ "hero": {
+  "type": "image",
+  "src": "../../assets/images/farms/fazenda-santa-rosa-IMG_8301.jpg",
+  "alt": "IMG_8301"
+ },
  "gallery": [
+  {
+   "type": "image",
+   "src": "../../assets/images/farms/fazenda-santa-rosa-IMG_8301.jpg",
+   "alt": "IMG_8301"
+  },
+  {
+   "type": "image",
+   "src": "../../assets/images/farms/fazenda-santa-rosa-IMG_8318.jpg",
+   "alt": "IMG_8318"
+  },
+  {
+   "type": "image",
+   "src": "../../assets/images/farms/fazenda-santa-rosa-IMG_8319.jpg",
+   "alt": "IMG_8319"
+  },
+  {
+   "type": "image",
+   "src": "../../assets/images/farms/fazenda-santa-rosa-IMG_8325.jpg",
+   "alt": "IMG_8325"
+  },
+  {
+   "type": "image",
+   "src": "../../assets/images/farms/fazenda-santa-rosa-IMG_8328.jpg",
+   "alt": "IMG_8328"
+  },
+  {
+   "type": "image",
+   "src": "../../assets/images/farms/fazenda-santa-rosa-IMG_8329.jpg",
+   "alt": "IMG_8329"
+  },
+  {
+   "type": "image",
+   "src": "../../assets/images/farms/fazenda-santa-rosa-IMG_8332.jpg",
+   "alt": "IMG_8332"
+  },
   {
    "type": "youtube",
    "videoId": "E7rJXE5So5U",
-   "title": "Fazenda Santa Rosa — IMG_8281 (Uruara, Para) (12 s)",
-   "caption": "That's right.",
-   "aspect": "portrait"
+   "title": "IMG_8281 (12 s)"
   },
   {
    "type": "youtube",
    "videoId": "8EbwHEtQE_E",
-   "title": "Fazenda Santa Rosa — IMG_8282 (Uruara, Para) (21 s)",
-   "caption": "Hello! Hello, my name is Mariano. I'm Mariano. Antonio Mariano. You know I'm a little boy. I'm a little boy. I'm a little boy. I'm a little boy.",
-   "aspect": "portrait"
+   "title": "IMG_8282 (21 s)"
   },
   {
    "type": "youtube",
    "videoId": "Y2WtNoVzr2c",
-   "title": "Fazenda Santa Rosa — IMG_8286 (Uruara, Para) (54 s)",
-   "caption": "it is crazy, it is crazy, it is crazy, it is crazy. How many years ago is this?",
-   "aspect": "portrait"
+   "title": "IMG_8286 (54 s)"
   },
   {
    "type": "youtube",
    "videoId": "BPk4q7UgVkg",
-   "title": "Fazenda Santa Rosa — IMG_8293 (Uruara, Para) (14 s)",
-   "caption": "I don't know, I don't know, I don't know.",
-   "aspect": "portrait"
+   "title": "IMG_8293 (14 s)"
   },
   {
    "type": "youtube",
    "videoId": "a7lTPt9SQLY",
-   "title": "Fazenda Santa Rosa — IMG_8294 (Uruara, Para) (22 s)",
-   "caption": "An oven? An oven? Yes, it is an oven. An oven right? Yes. It is an oven. How does that be in the oven? Yes. It is an oven.",
-   "aspect": "portrait"
+   "title": "IMG_8294 (22 s)"
   },
   {
    "type": "youtube",
    "videoId": "Tclcnjce7no",
-   "title": "Fazenda Santa Rosa — IMG_8295 (Uruara, Para) (18 s)",
-   "caption": "I think it's going to help. It's going to help? It's going to go up there? It's going up there. It's going up. It's going up.",
-   "aspect": "portrait"
+   "title": "IMG_8295 (18 s)"
   },
   {
    "type": "youtube",
    "videoId": "LjTDSy3DZkc",
-   "title": "Fazenda Santa Rosa — IMG_8296 (Uruara, Para) (24 s)",
-   "caption": "The farmers here call it Samcaloza. It is known for its Cats and Cats. You can see the Cats and Cats. The cats are very big, there are Berry. They are also the beasts. Like the sun. The Gaianese is…",
-   "aspect": "portrait"
+   "title": "IMG_8296 (24 s)"
   },
   {
    "type": "youtube",
    "videoId": "gIeQ09MeKl4",
-   "title": "Fazenda Santa Rosa — IMG_8297 (Uruara, Para) (5 s)",
-   "caption": "40 years old. 40 years old. 40 years old. 40 years old.",
-   "aspect": "portrait"
+   "title": "IMG_8297 (5 s)"
   },
   {
    "type": "youtube",
    "videoId": "sK16SxTlDz0",
-   "title": "Fazenda Santa Rosa — IMG_8298 (Uruara, Para) (37 s)",
-   "caption": "Look at this, look at this, look! This is crazy! Is it cold? It's cold, it's cold! This is super! This is great! This is very great! Very good.",
-   "aspect": "portrait"
+   "title": "IMG_8298 (37 s)"
   },
   {
    "type": "youtube",
    "videoId": "IB5RCk-2QNk",
-   "title": "Fazenda Santa Rosa — IMG_8303 (Uruara, Para) (7 s)",
-   "caption": "It's called Kakao Namoreira. Oh, Gamereira. Wow, it's a big one.",
-   "aspect": "portrait"
+   "title": "IMG_8303 (7 s)"
   },
   {
    "type": "youtube",
    "videoId": "CZsMFXQPPWA",
-   "title": "Fazenda Santa Rosa — IMG_8304 (Uruara, Para) (12 s)",
-   "caption": "I think it's natural. Well, I'm going to sleep. I'm going to sleep now. Yes, I'm going to sleep. I'm going to sleep now.",
-   "aspect": "portrait"
+   "title": "IMG_8304 (12 s)"
   },
   {
    "type": "youtube",
    "videoId": "kQVUiWl_EhY",
-   "title": "Fazenda Santa Rosa — IMG_8305 (Uruara, Para) (38 s)",
-   "caption": "it is going to be really cold very steep Wow, look at this natural spring Did you fill in the sauce? Really! It's really bad! The bread is wonderful!",
-   "aspect": "portrait"
+   "title": "IMG_8305 (38 s)"
   },
   {
    "type": "youtube",
    "videoId": "2IKKNciMjBw",
-   "title": "Fazenda Santa Rosa — IMG_8306 (Uruara, Para) (9 s)",
-   "caption": "Oh, he also does the high sound. Aha. Aha. Aha. Aha.",
-   "aspect": "portrait"
+   "title": "IMG_8306 (9 s)"
   },
   {
    "type": "youtube",
    "videoId": "SRm92oqQVEg",
-   "title": "Fazenda Santa Rosa — IMG_8307 (Uruara, Para) (25 s)",
-   "caption": "Oh, the 3-year-old cacao. The 2-year-old cacao is the cacao tree. It's the white one on the side. And how to sleep? Super cacao here. Super cacao. It's the cacao tree. It's a little bit.",
-   "aspect": "portrait"
+   "title": "IMG_8307 (25 s)"
   },
   {
    "type": "youtube",
    "videoId": "dj_if-3-Jg4",
-   "title": "Fazenda Santa Rosa — IMG_8308 (Uruara, Para) (11 s)",
-   "caption": "Oh, there's a cacao tree, it's growing under all this giant trees, right?",
-   "aspect": "portrait"
+   "title": "IMG_8308 (11 s)"
   },
   {
    "type": "youtube",
    "videoId": "ELxCs0vczAY",
-   "title": "Fazenda Santa Rosa — IMG_8311 (Uruara, Para) (10 s)",
-   "caption": "This is the big tree. The tree is a little bit bigger than the big tree. The big tree is a little bit bigger than the big tree.",
-   "aspect": "portrait"
+   "title": "IMG_8311 (10 s)"
   },
   {
    "type": "youtube",
    "videoId": "HMKXSgNOtVs",
-   "title": "Fazenda Santa Rosa — IMG_8312 (Uruara, Para) (10 s)",
-   "aspect": "portrait"
+   "title": "IMG_8312 (10 s)"
   },
   {
    "type": "youtube",
    "videoId": "DIBN4OTEzVI",
-   "title": "Fazenda Santa Rosa — IMG_8313 (Uruara, Para) (11 s)",
-   "caption": "It's so delicious, I wish you the best reaction! It's 30 meters in average, but it's good.",
-   "aspect": "portrait"
+   "title": "IMG_8313 (11 s)"
   },
   {
    "type": "youtube",
    "videoId": "d9Ht07zUCms",
-   "title": "Fazenda Santa Rosa — IMG_8314 (Uruara, Para) (31 s)",
-   "caption": "I'm gonna have to start again I'm gonna be in the courtroom I'm gonna be in the courtroom Come on!",
-   "aspect": "landscape"
+   "title": "IMG_8314 (31 s)"
   },
   {
    "type": "youtube",
    "videoId": "GURyK-f94xA",
-   "title": "Fazenda Santa Rosa — IMG_8316 (Uruara, Para)",
-   "caption": "it has to be very open, very open, create a special note of this property, you try to divulge this from the right, because here there is a lot of open, let's choose one name of them and give the name…",
-   "aspect": "portrait"
+   "title": "IMG_8316"
   },
   {
    "type": "youtube",
    "videoId": "AI_FqGDWFPs",
-   "title": "Fazenda Santa Rosa — IMG_8317 (Uruara, Para) (25 s)",
-   "caption": "Here, at the bottom of the area, there is more cacala, here is already a large area, but there is not much cacala. Oh, not a cacala? Not a little. Ah, ok.",
-   "aspect": "portrait"
+   "title": "IMG_8317 (25 s)"
   },
   {
    "type": "youtube",
    "videoId": "_f0PWDWj60Y",
-   "title": "Fazenda Santa Rosa — IMG_8320 (Uruara, Para) (29 s)",
-   "caption": "This is the very end of the portion of the land where they drink a cow and it's just pure random forest up to this part. And that's actually no more path left. Did you see that? Now we're going to...…",
-   "aspect": "portrait"
+   "title": "IMG_8320 (29 s)"
   },
   {
    "type": "youtube",
    "videoId": "1axHmhOTJX4",
-   "title": "Fazenda Santa Rosa — IMG_8322 (Uruara, Para) (13 s)",
-   "caption": "This is the hybrid, right? This is the hybrid, right? CCN? No. This is the hybrid. This is the hybrid.",
-   "aspect": "portrait"
+   "title": "IMG_8322 (13 s)"
   },
   {
    "type": "youtube",
    "videoId": "Dmd_SvbTlZg",
-   "title": "Fazenda Santa Rosa — IMG_8323 (Uruara, Para) (38 s)",
-   "caption": "what is it? ok ok is it good? yes, it's good it's good good it's not bad ok it's good ok it's good",
-   "aspect": "portrait"
+   "title": "IMG_8323 (38 s)"
   },
   {
    "type": "youtube",
    "videoId": "hsJzLUry_3A",
-   "title": "Fazenda Santa Rosa — IMG_8324 (Uruara, Para) (4 s)",
-   "caption": "I don't know if it's going to work or not.",
-   "aspect": "portrait"
+   "title": "IMG_8324 (4 s)"
   },
   {
    "type": "youtube",
    "videoId": "ODN4U3zFVMU",
-   "title": "Fazenda Santa Rosa — IMG_8326 (Uruara, Para) (14 s)",
-   "caption": "a drying station, a clean condition from the side of the door to the back of the car.",
-   "aspect": "portrait"
+   "title": "IMG_8326 (14 s)"
   },
   {
    "type": "youtube",
    "videoId": "qppiDoC-WDM",
-   "title": "Fazenda Santa Rosa — IMG_8333 (Uruara, Para) (4 s)",
-   "caption": "This is where he stays. He made a plan like this.",
-   "aspect": "portrait"
+   "title": "IMG_8333 (4 s)"
   },
   {
    "type": "youtube",
    "videoId": "IziwpJi2YMk",
-   "title": "Fazenda Santa Rosa — IMG_8335 (Uruara, Para) (9 s)",
-   "caption": "I'll take it out of my soul. Do you have a little bit of cacauceco there?",
-   "aspect": "portrait"
+   "title": "IMG_8335 (9 s)"
   },
   {
    "type": "youtube",
    "videoId": "qHo0K8GSpuM",
-   "title": "Fazenda Santa Rosa — IMG_8336 (Uruara, Para) (8 s)",
-   "caption": "I'm asking in the sample I'm going to the basement I'm sucking this house back Right now, let's see",
-   "aspect": "portrait"
+   "title": "IMG_8336 (8 s)"
   },
   {
    "type": "youtube",
    "videoId": "J4Vl2tQ5nLk",
-   "title": "Fazenda Santa Rosa — IMG_8337 (Uruara, Para) (43 s)",
-   "caption": "Oh wow! Ah, this is it! Stomach for the virus! Oh my! It's all yours, my son! I'm trying to put it in the air. The air is going to be... Are you jealous? Yes! You get the most amount of it. Very…",
-   "aspect": "portrait"
+   "title": "IMG_8337 (43 s)"
   },
   {
    "type": "youtube",
    "videoId": "-P9ki8iBpGs",
-   "title": "Fazenda Santa Rosa — IMG_8340 (Uruara, Para) (18 s)",
-   "caption": "Well, it's a very good thing because it's a very good thing, it's a very good thing.",
-   "aspect": "portrait"
+   "title": "IMG_8340 (18 s)"
   }
  ]
 }
