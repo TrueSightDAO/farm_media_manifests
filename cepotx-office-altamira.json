@@ -1,0 +1,398 @@
+{
+ "site_id": "cepotx-office-altamira",
+ "namespace": "farm-media (site sub-namespace — first non-farm MAP manifest)",
+ "site_type": "cacao breaking / sorting / drying site (non-farm)",
+ "location": "CEPOTX office area, Altamira, Pará, BR (SUDAM II / Av. Perimetral vicinity)",
+ "location_attested": false,
+ "location_note": "site name is roadmap-inferred from GPS (~2.7 km from the CEPOTX office); not farmer-attested. GPS cluster is decisive (all clips within ~±60 m).",
+ "gps_centroid": {
+  "latitude": -3.2124,
+  "longitude": -52.2328
+ },
+ "captured": "2026-08-31 (inferred from clip sequence; single continuous session)",
+ "processed_by": "MEDIA_ARCHIVE_PIPELINE.md",
+ "generated": "2026-09-13",
+ "source_zips": [
+  {
+   "zip": "cacao_variety_parap.zip",
+   "s3_prefix": "raw/cacao-variety-parap/",
+   "note": "zip name is misleading — footage shows breaking/sorting/drying/tree, NOT variety taxonomy (frame pass 2026-09-09). Variety must be farmer-attested, never vision-guessed.",
+   "contains_stray": "IMG_7654.MOV (belongs to rancho-maranta-para)"
+  },
+  {
+   "zip": "sorting.zip",
+   "s3_prefix": "raw/sorting/"
+  }
+ ],
+ "counts": {
+  "MOV": 30,
+  "HEIC": 2,
+  "duplicates": 1,
+  "unique_captures": 31
+ },
+ "stage_labels": {
+  "source": "frame-caption pass, thread 23018, 2026-09-09",
+  "vocab": [
+   "pods_on_tree",
+   "breaking",
+   "sorting",
+   "drying",
+   "other"
+  ],
+  "coverage": "12/30 MOV labelled; remainder unlabelled (optional follow-up)"
+ },
+ "items": [
+  {
+   "basename": "IMG_7830.MOV",
+   "size_bytes": 61389508,
+   "sha256": "f03c6a449b51b5d2270eba22bc1bd7f1525717ebba5e62da92a277f7b63a4575",
+   "latitude": -3.2124,
+   "longitude": -52.2326,
+   "duration_s": 55.6,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/cacao-variety-parap/IMG_7830.MOV",
+   "source_zip": "cacao_variety_parap.zip",
+   "stage": "sorting"
+  },
+  {
+   "basename": "IMG_7831.MOV",
+   "size_bytes": 61766085,
+   "sha256": "09a192c9d67bd19c9bbefc1a91cc00a791e50828c844f436ded4d7013394cb03",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 52.9,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/cacao-variety-parap/IMG_7831.MOV",
+   "source_zip": "cacao_variety_parap.zip",
+   "stage": "breaking"
+  },
+  {
+   "basename": "IMG_7833.MOV",
+   "size_bytes": 13447572,
+   "sha256": "1b8df40c2a8bbf7d6c77ec568aa760be6fc62a999a315dd6b4c678e9480ce25a",
+   "latitude": -3.2125,
+   "longitude": -52.2328,
+   "duration_s": 12.1,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/cacao-variety-parap/IMG_7833.MOV",
+   "source_zip": "cacao_variety_parap.zip",
+   "stage": "other"
+  },
+  {
+   "basename": "IMG_7834.MOV",
+   "size_bytes": 25984646,
+   "sha256": "1d6b02bc729a923f408bf414c0a697931b78f219fad9c2e886aadb5760afaf0d",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 20.9,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/cacao-variety-parap/IMG_7834.MOV",
+   "source_zip": "cacao_variety_parap.zip",
+   "stage": "pods_on_tree"
+  },
+  {
+   "basename": "IMG_7835.MOV",
+   "size_bytes": 32629973,
+   "sha256": "7fb1032767e573763dd069e3d3100669df652013452b7658f4abe4e3f64cfba4",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 29.5,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/cacao-variety-parap/IMG_7835.MOV",
+   "source_zip": "cacao_variety_parap.zip",
+   "stage": "breaking"
+  },
+  {
+   "basename": "IMG_7836.MOV",
+   "size_bytes": 22846697,
+   "sha256": "0d00799bf242cf370855ce13fff32edf1e468fd4ecfd1260c177871268aa6b3d",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 20.7,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/cacao-variety-parap/IMG_7836.MOV",
+   "source_zip": "cacao_variety_parap.zip",
+   "stage": "breaking"
+  },
+  {
+   "basename": "IMG_7847.MOV",
+   "size_bytes": 17080162,
+   "sha256": "179c74c5d904652e37ff8f7d7d359b67a2be8bae49b7227c3fbea3890ece319b",
+   "latitude": -3.2125,
+   "longitude": -52.2327,
+   "duration_s": 15.4,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/cacao-variety-parap/IMG_7847.MOV",
+   "source_zip": "cacao_variety_parap.zip",
+   "stage": "breaking"
+  },
+  {
+   "basename": "IMG_7848.MOV",
+   "size_bytes": 85773523,
+   "sha256": "b07daa8223dba7a55417fd2d0f52f2215008a094e41624c02fe19063eeec19e2",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 71.2,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/cacao-variety-parap/IMG_7848.MOV",
+   "source_zip": "cacao_variety_parap.zip",
+   "stage": "sorting"
+  },
+  {
+   "basename": "IMG_7807.MOV",
+   "size_bytes": 18297186,
+   "sha256": "3f4268bf3ef370ad879756e4b36713e5b02ee53c761c9159ca0862f0f747b5b9",
+   "latitude": -3.2122,
+   "longitude": -52.2329,
+   "duration_s": 16.8,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7807.MOV",
+   "source_zip": "sorting.zip",
+   "stage": "other"
+  },
+  {
+   "basename": "IMG_7808.MOV",
+   "size_bytes": 13272462,
+   "sha256": "07e962fbc31692954981a8faa8e245a707879786ccc3dd70fce618f72e0f5591",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 7.9,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7808.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7809.MOV",
+   "size_bytes": 19700806,
+   "sha256": "03a218c38aa2fc70b15c2a3573930ee8c52605b2a80eafdd3c99fb5fadf31f94",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 13.4,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7809.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7810.MOV",
+   "size_bytes": 18928016,
+   "sha256": "5f55984ab731482a54c3a59fb9331ff70805460a2d6bc48a8bad0e7b08bef307",
+   "latitude": -3.2124,
+   "longitude": -52.233,
+   "duration_s": 10.7,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7810.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7811.HEIC",
+   "size_bytes": 1587550,
+   "sha256": "d4ce07be0bf85eb09689e75bd2b15d78326cb3d32dfd1ea5263fda677f5d2e27",
+   "latitude": -3.21256944444444,
+   "longitude": -52.2328,
+   "duration_s": 0,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7811.HEIC",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7812.MOV",
+   "size_bytes": 7019029,
+   "sha256": "ac8a0de60adfe9f0145832fccdac4fe8e05dff14401b9c31455b85fdb773089a",
+   "latitude": -3.2126,
+   "longitude": -52.2327,
+   "duration_s": 6.3,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7812.MOV",
+   "source_zip": "sorting.zip",
+   "stage": "sorting"
+  },
+  {
+   "basename": "IMG_7813.MOV",
+   "size_bytes": 23277210,
+   "sha256": "3d2d517278368a851cfab7c668835418e71f9861a38aa0ff26fcb9958289fbd2",
+   "latitude": -3.2125,
+   "longitude": -52.2328,
+   "duration_s": 21.1,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7813.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7814.MOV",
+   "size_bytes": 123585304,
+   "sha256": "37bf844b71ee6907b24d9b1746df02ae73c6b542c645805fc86f78d4883bc78c",
+   "latitude": -3.2125,
+   "longitude": -52.2328,
+   "duration_s": 112.1,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7814.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7815.MOV",
+   "size_bytes": 6904513,
+   "sha256": "bbce064a5c478a9b92f8035b54701526b5db96dcfdc08afddb199df39147aec8",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 6.2,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7815.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7816.MOV",
+   "size_bytes": 22674429,
+   "sha256": "601a7c1a5d4e3e3b58c375787a370f2203bdf6c3a09a84f8b675f636f3213a6b",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 20.3,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7816.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7817.MOV",
+   "size_bytes": 37052016,
+   "sha256": "932c767f932cd2634d6d3493eb0c9020c34a1011327900c5e2b7e075ac6eaa5c",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 33.7,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7817.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7818.MOV",
+   "size_bytes": 13253916,
+   "sha256": "400a73a7a87f7f3550b2a2e3f1faaa339e757582c709cac11cf71b966e3aa69d",
+   "latitude": -3.2124,
+   "longitude": -52.2329,
+   "duration_s": 11.8,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7818.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7819.MOV",
+   "size_bytes": 45004478,
+   "sha256": "bc808d5b05a1b4ffcf63a57a2e5d6c56fd1605579b21bf8c93cd7e15db9ce39c",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 40.7,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7819.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7820.MOV",
+   "size_bytes": 76752789,
+   "sha256": "96b838d46810fabd20438e4c3b50f2ecfb8530dba0b58ebf3c46826cb3b33b7c",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 69.6,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7820.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7821.MOV",
+   "size_bytes": 130946643,
+   "sha256": "a8c6df97b891b5ea7fedd30d2f643d6c3fc51de1eb61cab15f558263605743e2",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 118.8,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7821.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7822.MOV",
+   "size_bytes": 9680346,
+   "sha256": "6f18df612c31c2487a08df5e7bf46efa34346a13c59b315297c1f9e421c819fc",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 7.5,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7822.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7823.MOV",
+   "size_bytes": 6867203,
+   "sha256": "3c75470cabd97bd432d6a3c718cc7ae83d35d21cbfdf783c210b4a74fdf81d96",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 5.9,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7823.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7825.MOV",
+   "size_bytes": 7368942,
+   "sha256": "526a3e0c8501508366eb001e741908672a36c2d0b0e810d45b5a232dcf40fbcd",
+   "latitude": -3.2123,
+   "longitude": -52.2327,
+   "duration_s": 6.6,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7825.MOV",
+   "source_zip": "sorting.zip",
+   "stage": "other"
+  },
+  {
+   "basename": "IMG_7826.MOV",
+   "size_bytes": 8766949,
+   "sha256": "4b358cea9c5d4e385c850bec6adfb5efd24c37cc83ca7a0edc6fc9f0d6cf1e1e",
+   "latitude": -3.2123,
+   "longitude": -52.2328,
+   "duration_s": 7.9,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7826.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7827.MOV",
+   "size_bytes": 61852111,
+   "sha256": "1242c1353df268d91d5af33fc4853ae0cf243adb36731a1d2bb2b15899e9448c",
+   "latitude": -3.2124,
+   "longitude": -52.2329,
+   "duration_s": 56.2,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7827.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7828.MOV",
+   "size_bytes": 21336961,
+   "sha256": "974d3539aa937a4dca93a8108fd4c7b05b7e33114a880bb47efff61015de3120",
+   "latitude": -3.2126,
+   "longitude": -52.2326,
+   "duration_s": 19.3,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7828.MOV",
+   "source_zip": "sorting.zip"
+  },
+  {
+   "basename": "IMG_7829.MOV",
+   "size_bytes": 51049738,
+   "sha256": "649d89c46bc0426371a279e460de2a24ca185802429f91a534b50422b062cfb1",
+   "latitude": -3.2124,
+   "longitude": -52.2328,
+   "duration_s": 46.6,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7829.MOV",
+   "source_zip": "sorting.zip",
+   "stage": "sorting"
+  },
+  {
+   "basename": "IMG_7830 2.MOV",
+   "size_bytes": 61389508,
+   "sha256": "f03c6a449b51b5d2270eba22bc1bd7f1525717ebba5e62da92a277f7b63a4575",
+   "latitude": -3.2124,
+   "longitude": -52.2326,
+   "duration_s": 55.6,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7830 2.MOV",
+   "source_zip": "sorting.zip",
+   "duplicate_of": "IMG_7830.MOV"
+  },
+  {
+   "basename": "IMG_7854.HEIC",
+   "size_bytes": 1540280,
+   "sha256": "5888bf0fe5b275548c5c9cf463409e71f115894388433d98986e1ca096cf9743",
+   "latitude": -3.21246666666667,
+   "longitude": -52.2328194444444,
+   "duration_s": 0,
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/sorting/IMG_7854.HEIC",
+   "source_zip": "sorting.zip"
+  }
+ ],
+ "cross_refs": [
+  {
+   "basename": "IMG_7654.MOV",
+   "source_zip": "cacao_variety_parap.zip",
+   "s3_url": "https://s3.us-east-1.amazonaws.com/media.agroverse.shop/raw/cacao-variety-parap/IMG_7654.MOV",
+   "belongs_to": "rancho-maranta-para (plot2)",
+   "note": "Rancho Maranta plot-2 clip misfiled in the variety zip; already indexed in rancho-maranta-para.json. Do NOT index here."
+  }
+ ],
+ "duplicates": [
+  {
+   "basename": "IMG_7830 2.MOV",
+   "source_zip": "sorting.zip",
+   "identical_to": "IMG_7830.MOV (cacao_variety_parap.zip)",
+   "sha256": "f03c6a449b51b5d2270eba22bc1bd7f1525717ebba5e62da92a277f7b63a4575",
+   "note": "byte-identical capture split across two zips; index once (IMG_7830.MOV)."
+  }
+ ],
+ "note": "CEPOTX-office-area (Altamira) processing cluster — orphaned on S3 with no manifest until now. Referenced, not re-uploaded. See agentic_ai_context agroverse/CACAO_VARIETIES_PARA_DOSSIER.md."
+}
