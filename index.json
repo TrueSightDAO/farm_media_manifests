@@ -83,6 +83,18 @@
             "manifest": "cepotx-office-altamira.json",
             "updated": "2026-09-13",
             "entity_type": "site"
+        },
+        {
+            "farm_id": "fazenda-santa-rosa",
+            "manifest": "fazenda-santa-rosa.json",
+            "updated": "2026-09-14",
+            "entity_type": "farm"
+        },
+        {
+            "farm_id": "fazenda-bom-sucesso",
+            "manifest": "farms/fazenda-bom-sucesso.json",
+            "updated": "2026-09-14",
+            "entity_type": "farm"
         }
     ],
     "note": "Index of media manifests (Media Archives Pipeline / MAP). Keyed by entity id per MEDIA_ARCHIVE_PIPELINE.md. `entity_type` (farm|program) added 2026-09-11 (governor decision, thread 25181) — first program entity: crf-anapu-para. `site` entity_type added 2026-09-13 (first non-farm MAP manifest: cepotx-office-altamira, a breaking/sorting site)."
