@@ -95,7 +95,13 @@
             "manifest": "farms/fazenda-bom-sucesso.json",
             "updated": "2026-09-14",
             "entity_type": "farm"
+        },
+        {
+            "farm_id": "founderhaus",
+            "manifest": "founderhaus.json",
+            "updated": "2026-10-01",
+            "entity_type": "partner"
         }
     ],
-    "note": "Index of media manifests (Media Archives Pipeline / MAP). Keyed by entity id per MEDIA_ARCHIVE_PIPELINE.md. `entity_type` (farm|program) added 2026-09-11 (governor decision, thread 25181) — first program entity: crf-anapu-para. `site` entity_type added 2026-09-13 (first non-farm MAP manifest: cepotx-office-altamira, a breaking/sorting site)."
+    "note": "Index of media manifests (Media Archives Pipeline / MAP). Keyed by entity id per MEDIA_ARCHIVE_PIPELINE.md. `entity_type` (farm|program) added 2026-09-11 (governor decision, thread 25181) — first program entity: crf-anapu-para. `site` entity_type added 2026-09-13 (first non-farm MAP manifest: cepotx-office-altamira, a breaking/sorting site). `partner` entity_type added 2026-10-01 (first partner/venue collection: founderhaus — Founder Haus Startup Summit 2026 activation media, Florianopolis)."
 }
