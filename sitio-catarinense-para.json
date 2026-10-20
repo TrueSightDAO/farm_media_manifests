@@ -1,0 +1,178 @@
+{
+  "farm_id": "sitio-catarinense-para",
+  "farm_name": "Sítio Catarinense",
+  "region": "Anapu, Pará, Brazil",
+  "owner": "Jhordan Madian Costa de Oliveira (family)",
+  "plot_ids": [
+    "SC-P1"
+  ],
+  "generated_at": "2026-10-20T08:21:39.230952Z",
+  "produced_by": "sophia",
+  "source": "WhatsApp chat - Jhordan (zip), /tmp/jhordan",
+  "plan": "agentic_ai_context/plans/SITIO_CATARINENSE_FARM_ONBOARDING_PLAN.md #PR3b",
+  "gps_policy": "ZERO EXIF/GPS survives on any supplied JPG/MP4 - WhatsApp recompression strips it. GPS absence does NOT block MAP processing (MEDIA_ARCHIVE_PIPELINE.md sec 2/sec 4): these assets are gallery/media only and are never used as plot-boundary evidence or map pins. SC-P1 boundary authority comes from the hand-drawn KML (boundary_authority=approx).",
+  "dedupe": {
+    "method": "sha256",
+    "removed": [
+      {
+        "file": "00000100-VIDEO-2026-10-20-04-42-03.mp4",
+        "duplicate_of": "00000071-VIDEO-2026-10-20-03-51-53.mp4",
+        "sha256": "079373c6830e9d74890a91be2dbcf3fd3e888db8ca8578a9f8bafa0eb7831115",
+        "reason": "byte-identical re-send"
+      }
+    ],
+    "unique_videos": 4,
+    "unique_photos": 11,
+    "unique_audio": 1
+  },
+  "format_conversion": {
+    "requested": "MOV->MP4",
+    "actual": "no-op",
+    "reason": "all 5 supplied videos arrived already H.264/MP4 (WhatsApp transcode, 478x850). No MOV originals were supplied."
+  },
+  "videos": [
+    {
+      "file": "00000069-VIDEO-2026-10-20-03-51-37.mp4",
+      "sha256": "ac6420bebc7f06a2752d37a3dfbfa02f11b006df80660dd09bc74868a4e796ae",
+      "duration_s": 20.229,
+      "captured_at": "2026-10-20T03:51:37Z",
+      "privacy": "public",
+      "yt_id": "FZ1S9VfI4pI",
+      "url": "https://www.youtube.com/watch?v=FZ1S9VfI4pI",
+      "gps": "none — WhatsApp recompression stripped EXIF/GPS",
+      "note": "WhatsApp-recompressed H.264 478x850; no EXIF/GPS. Gallery use only, NOT boundary evidence."
+    },
+    {
+      "file": "00000070-VIDEO-2026-10-20-03-51-41.mp4",
+      "sha256": "289426bd1d8457628024cdb0320172f5e00ecd96dadf9161cb10e8e14f8474e1",
+      "duration_s": 16.643,
+      "captured_at": "2026-10-20T03:51:41Z",
+      "privacy": "public",
+      "yt_id": "Z14zNzW6nw0",
+      "url": "https://www.youtube.com/watch?v=Z14zNzW6nw0",
+      "gps": "none — WhatsApp recompression stripped EXIF/GPS",
+      "note": "WhatsApp-recompressed H.264 478x850; no EXIF/GPS. Gallery use only, NOT boundary evidence."
+    },
+    {
+      "file": "00000071-VIDEO-2026-10-20-03-51-53.mp4",
+      "sha256": "079373c6830e9d74890a91be2dbcf3fd3e888db8ca8578a9f8bafa0eb7831115",
+      "duration_s": 8.731,
+      "captured_at": "2026-10-20T03:51:53Z",
+      "privacy": "public",
+      "yt_id": "ET4x0JHNTQY",
+      "url": "https://www.youtube.com/watch?v=ET4x0JHNTQY",
+      "gps": "none — WhatsApp recompression stripped EXIF/GPS",
+      "note": "WhatsApp-recompressed H.264 478x850; no EXIF/GPS. Gallery use only, NOT boundary evidence."
+    },
+    {
+      "file": "00000072-VIDEO-2026-10-20-03-51-54.mp4",
+      "sha256": "490845ed2dc6253117b37fc8195141ea7fad16fb3619082ec758439b9b6272b2",
+      "duration_s": 12.565,
+      "captured_at": "2026-10-20T03:51:54Z",
+      "privacy": "public",
+      "yt_id": "OY9fVD__Cts",
+      "url": "https://www.youtube.com/watch?v=OY9fVD__Cts",
+      "gps": "none — WhatsApp recompression stripped EXIF/GPS",
+      "note": "WhatsApp-recompressed H.264 478x850; no EXIF/GPS. Gallery use only, NOT boundary evidence."
+    }
+  ],
+  "photos": [
+    {
+      "file": "00000085-PHOTO-2026-10-20-04-40-18.jpg",
+      "sha256": "029d4f6dfc00b7f15bf77eb6291fb7f11025505401930dc22d26d4356bf9bd47",
+      "privacy": "public",
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/farm-media-raw/main/sitio-catarinense-para/photos/00000085-PHOTO-2026-10-20-04-40-18.jpg",
+      "note": "family/personnel photo - no EXIF/GPS; gallery use only"
+    },
+    {
+      "file": "00000086-PHOTO-2026-10-20-04-40-19.jpg",
+      "sha256": "51016c1fbb32a64ea605794dfc231977e08a9e1cf294978a084d05f2194c5214",
+      "privacy": "public",
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/farm-media-raw/main/sitio-catarinense-para/photos/00000086-PHOTO-2026-10-20-04-40-19.jpg",
+      "note": "family/personnel photo - no EXIF/GPS; gallery use only"
+    },
+    {
+      "file": "00000087-PHOTO-2026-10-20-04-40-19.jpg",
+      "sha256": "093345516f487448b2f57a5e3418b277b2ad5ae913d35daf6cca602da7d7f7d5",
+      "privacy": "public",
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/farm-media-raw/main/sitio-catarinense-para/photos/00000087-PHOTO-2026-10-20-04-40-19.jpg",
+      "note": "family/personnel photo - no EXIF/GPS; gallery use only"
+    },
+    {
+      "file": "00000088-PHOTO-2026-10-20-04-40-19.jpg",
+      "sha256": "92a06169fdf85b9173ae03c220c23428bcfd1a2ea248c30a45671557ef839f71",
+      "privacy": "public",
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/farm-media-raw/main/sitio-catarinense-para/photos/00000088-PHOTO-2026-10-20-04-40-19.jpg",
+      "note": "family/personnel photo - no EXIF/GPS; gallery use only"
+    },
+    {
+      "file": "00000089-PHOTO-2026-10-20-04-40-20.jpg",
+      "sha256": "986e4e159f60fdd966881efa9fac683d7bea99d9df56c69186581bfe8e0d140e",
+      "privacy": "public",
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/farm-media-raw/main/sitio-catarinense-para/photos/00000089-PHOTO-2026-10-20-04-40-20.jpg",
+      "note": "family/personnel photo - no EXIF/GPS; gallery use only"
+    },
+    {
+      "file": "00000093-PHOTO-2026-10-20-04-41-28.jpg",
+      "sha256": "622a9008b262cbec2725f0481e01c23720e62844727f1013a508e025d2e4112f",
+      "privacy": "public",
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/farm-media-raw/main/sitio-catarinense-para/photos/00000093-PHOTO-2026-10-20-04-41-28.jpg",
+      "note": "family/personnel photo - no EXIF/GPS; gallery use only"
+    },
+    {
+      "file": "00000094-PHOTO-2026-10-20-04-41-28.jpg",
+      "sha256": "ba213aeadb0d09acaacba8426f5988243018b63e17cf2f60a8de594d4c897792",
+      "privacy": "public",
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/farm-media-raw/main/sitio-catarinense-para/photos/00000094-PHOTO-2026-10-20-04-41-28.jpg",
+      "note": "family/personnel photo - no EXIF/GPS; gallery use only"
+    },
+    {
+      "file": "00000095-PHOTO-2026-10-20-04-41-29.jpg",
+      "sha256": "059c52ea010f2fc059a55a89f117b1b9624ab847dabbd12d6ccdf14812d16709",
+      "privacy": "public",
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/farm-media-raw/main/sitio-catarinense-para/photos/00000095-PHOTO-2026-10-20-04-41-29.jpg",
+      "note": "family/personnel photo - no EXIF/GPS; gallery use only"
+    },
+    {
+      "file": "00000096-PHOTO-2026-10-20-04-41-29.jpg",
+      "sha256": "5da90f6d65555d081124d2ce702b734389a201a04e996df1dc5b75126f6bd06b",
+      "privacy": "public",
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/farm-media-raw/main/sitio-catarinense-para/photos/00000096-PHOTO-2026-10-20-04-41-29.jpg",
+      "note": "family/personnel photo - no EXIF/GPS; gallery use only"
+    },
+    {
+      "file": "00000097-PHOTO-2026-10-20-04-41-30.jpg",
+      "sha256": "367a7a32032ade2678b16b878ea71a4bce4e8d9a3fa92bbf48790b25911e3aa9",
+      "privacy": "public",
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/farm-media-raw/main/sitio-catarinense-para/photos/00000097-PHOTO-2026-10-20-04-41-30.jpg",
+      "note": "family/personnel photo - no EXIF/GPS; gallery use only"
+    },
+    {
+      "file": "00000098-PHOTO-2026-10-20-04-41-30.jpg",
+      "sha256": "dffb9bef8677cb8c090d39e0d8c8592c316140d2898b03c37e433ce6a5ffa99d",
+      "privacy": "public",
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/farm-media-raw/main/sitio-catarinense-para/photos/00000098-PHOTO-2026-10-20-04-41-30.jpg",
+      "note": "family/personnel photo - no EXIF/GPS; gallery use only"
+    }
+  ],
+  "audio": [
+    {
+      "file": "00000018-AUDIO-2026-09-30-01-50-00.opus",
+      "sha256": "93b0ec618ee54e6a142931c4efc110b8816417f66debfc64e8a2835e6a175912",
+      "duration_s": 3.0,
+      "captured_at": "2026-09-30T01:50:00Z",
+      "language": "pt",
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/farm-media-raw/main/sitio-catarinense-para/audio/00000018-AUDIO-2026-09-30-01-50-00.opus",
+      "transcript_pt": "Meu amigo, eu estou aqui na minha escola.",
+      "transcript_en": "My friend, I am here at my school.",
+      "transcript_model": "faster-whisper base/int8, lang=pt",
+      "transcript_note": "3s clip; ASR rendered 'escua' for 'escola' - corrected here by ear. Language: Portuguese."
+    }
+  ],
+  "counts": {
+    "videos_uploaded_youtube": 4,
+    "photos_archived": 11,
+    "audio_archived": 1
+  },
+  "next": "PR5b wires media.json gallery entries from these yt_ids + photo URLs"
+}
