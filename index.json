@@ -101,7 +101,13 @@
             "manifest": "founderhaus.json",
             "updated": "2026-10-01",
             "entity_type": "partner"
+        },
+        {
+            "farm_id": "facility-black-king-warehouse",
+            "manifest": "facility-black-king-warehouse.json",
+            "updated": "2026-10-25",
+            "entity_type": "facility"
         }
     ],
-    "note": "Index of media manifests (Media Archives Pipeline / MAP). Keyed by entity id per MEDIA_ARCHIVE_PIPELINE.md. `entity_type` (farm|program) added 2026-09-11 (governor decision, thread 25181) — first program entity: crf-anapu-para. `site` entity_type added 2026-09-13 (first non-farm MAP manifest: cepotx-office-altamira, a breaking/sorting site). `partner` entity_type added 2026-10-01 (first partner/venue collection: founderhaus — Founder Haus Startup Summit 2026 activation media, Florianopolis)."
+    "note": "Index of media manifests (Media Archives Pipeline / MAP). Keyed by entity id per MEDIA_ARCHIVE_PIPELINE.md. `entity_type` (farm|program) added 2026-09-11 (governor decision, thread 25181) — first program entity: crf-anapu-para. `site` entity_type added 2026-09-13 (first non-farm MAP manifest: cepotx-office-altamira, a breaking/sorting site). `partner` entity_type added 2026-10-01 (first partner/venue collection: founderhaus — Founder Haus Startup Summit 2026 activation media, Florianopolis). `facility` entity_type added 2026-10-25 (first facility/exporter-warehouse collection: facility-black-king-warehouse — Black King export warehouse, Ilhéus BA; outfitting, strapping and weigh-in point for the 2026-10 air freight to San Francisco, AWB 047-3175 3223)."
 }
